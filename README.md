@@ -41,4 +41,4 @@ Indivíduos são mais importante que processos e ferramentas;
 O mais importante é indivíduos e interações;
 software em funcionamento é mais importante que documentação abrangente;
 Colaboração com clientes mais importante que negociação de contratos;
-Responder a mudanças é mais importante do que seguir um plano;
+Responder a mudanças é mais importante do que seguir um plano.
