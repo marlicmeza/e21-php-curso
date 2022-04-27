@@ -1,17 +1,16 @@
 # e21php-curso
-repositorio para sincronização de todos os testes, arquivos e doc
-teste teste
+repositorio para sincronização de todos os 
 PROJETO ENTRA 21-22 MARLI CONSTANTINO MEZA
 CURSO PHP
 PROF ADRIANO MACHADO
 
-Aula 01
 
 Ambientação e  Metodologias Ágeis
 
 Frameworks:
 Scrum 
 Kanban
+Trello 
 
 KANBAN: 
 Principios que norteiam:
@@ -42,3 +41,14 @@ O mais importante é indivíduos e interações;
 software em funcionamento é mais importante que documentação abrangente;
 Colaboração com clientes mais importante que negociação de contratos;
 Responder a mudanças é mais importante do que seguir um plano.
+
+Aula 25.04.2022
+Continuação do scrum com uso do Trello, compartilhamento do kanban trello, instalação do vscode, git e github desktop e primeiro contato com os colegas em reunião pelo meet em equipes.
+
+Aula 26.04.2022
+Daily scrum com colegas, criação de conta e repositório github, criação do arquivo Readme, clonagem e compartilhamento com o professor que clonou as pastas.
+Alteração no arquivo readme e feito submmit através de comandos prompt, usando vscode.
+
+Aula 26.04.2022
+Daily scrum com colegas, comandos prompt voltado para atividade, compartilhamento e clonagem arquivo readme colega alterações e commit, criação e resolução de conflito criado em arquivo readme.
+Continuação readme individual com colaboração dos colegas - equipe no meet.
