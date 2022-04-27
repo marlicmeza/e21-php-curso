@@ -5,8 +5,4 @@ PROJETO ENTRA 21-22 MARLI CONSTANTINO MEZA
 CURSO PHP
 PROF ADRIANO MACHADO
 
-Bom dia Marli
-<3
-Beijos
-Arquivo alterado Marli 
-Meu nome é Paula
+
