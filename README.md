@@ -52,3 +52,21 @@ Alteração no arquivo readme e feito submmit através de comandos prompt, usand
 Aula 26.04.2022
 Daily scrum com colegas, comandos prompt voltado para atividade, compartilhamento e clonagem arquivo readme colega alterações e commit, criação e resolução de conflito criado em arquivo readme.
 Continuação readme individual com colaboração dos colegas - equipe no meet.
+
+Aula 28.04.2022
+Daily Scrum, logo após conversa com todos e decisão de aula extra no sábado.
+Continuação da aula para aqueles que estavam com dificuldade com relação a aula de 27.04.
+Dinâmica: Detalhar em 10 passos uma da opções.
+Comer Pizza, Sacar dinheiro e Tomar banho:
+
+COMER PIZZA
+pegar o telefone abrir o aplicativo
+fazer o pedido da pizza
+efetuar o pagamento
+receber a pizza
+preparar a mesa
+abrir a pizza
+cortar e por no prato
+cortar e levara a boca
+mastigar 
+engolir
