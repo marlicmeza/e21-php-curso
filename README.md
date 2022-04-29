@@ -3,7 +3,7 @@
 # <br>PROJETO ENTRA 21-22 
 ### <br>MARLI CONSTANTINO MEZA
 ### <br>CURSO PHP
-### <br>PROF ADRIANO MACHADO
+### <br>PROF°.  ADRIANO MACHADO
 # <br>Ambientação e  Metodologias Ágeis
 ### <br>Frameworks:
 <ul>
@@ -73,7 +73,7 @@ Continuação readme individual com colaboração dos colegas - equipe no meet.<
 Continuação da aula e repetição dos exercícios de clonagem, geração e resolução de problemas para aqueles que estavam com dificuldade com relação a aula de 27.04.</p>
 
 ### Introdução a lógica de programação.
-__<p>Dinâmica__: Detalhar em 10 passos uma da opções.
+__<p>Dinâmica__: Detalhar em 10 passos uma da opções:
 Comer Pizza, Sacar dinheiro e Tomar banho:</p>
 ### Opção escolhida
 __COMER PIZZA__
@@ -88,3 +88,9 @@ __COMER PIZZA__
 <li>Cortar e levara a boca;
 <li>Mastigar; 
 <li>Engolir.
+</ul>
+
+## Aula 29.04.2022
+<p>Daily Scrum, sprint review, sprint planning, uso do Trello.</p>
+<p>Introdução a lógica de programação (continuação aula anterior), abordagem a um case simulando análise, levantamento e solução.</p>
+<p>Algoritmos, diagrama de chapin, fluxogramas etc...</p>
