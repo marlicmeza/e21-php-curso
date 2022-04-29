@@ -11,7 +11,6 @@
     <li>Kanban
     <li>Trello
 </ul>
-
 ## <br>KANBAN
 ### <br>Principios que norteiam:
 <ul>
@@ -32,32 +31,32 @@
 
 ### Valores:
 <ul>
-<li>Coragem;
-<li>Foco;
-<li>Comprometimento;
-<li>Respeito;
-<li>Abertura (escutar, compreender ...).
+    <li>Coragem;
+    <li>Foco;
+    <li>Comprometimento;
+    <li>Respeito;
+    <li>Abertura (escutar, compreender ...).
 </ul>
 
 ## MANIFESTO ÁGIL
 <p>O Manifesto Ágil foi criado em 1970.</p>
 <p>Seus principios são:</p>
 <ul>
-<li>Indivíduos são mais importante que processos e ferramentas;
-<li>O mais importante é indivíduos e interações;
+    <li>Indivíduos são mais importante que processos e ferramentas;
+    <li>O mais importante é indivíduos e interações;
 software em funcionamento é mais importante que documentação abrangente;
-<li>Colaboração com clientes mais importante que negociação de contratos;
-<li>Responder a mudanças é mais importante do que seguir um plano.
+    <li>Colaboração com clientes mais importante que negociação de contratos;
+    <li>Responder a mudanças é mais importante do que seguir um plano.
 </ul>
 
 ## <br>Aula 25.04.2022
 <p> Continuação do scrum com uso do Trello, compartilhamento do kanban trello, instalação do vscode, git e github desktop e primeiro contato com os colegas em reunião pelo meet em equipes.</p>
 Primeiro contatos com os comandos git:
 <ul>
-<li> git add . 
-<li> git commit -m "nome da versão"
-<li> git push
-<li> git pull
+    <li> git add . 
+    <li> git commit -m "nome da versão"
+    <li> git push
+    <li> git pull
 </ul> </p>
 
 ## Aula 26.04.2022
@@ -78,16 +77,16 @@ Comer Pizza, Sacar dinheiro e Tomar banho:</p>
 ### Opção escolhida
 __COMER PIZZA__
 <ul>
-<li>Pegar o telefone abrir o aplicativo;
-<li>Fazer o pedido da pizza;
-<li>Efetuar o pagamento;
-<li>Receber a pizza;
-<li>Preparar a mesa;
-<li>Abrir a pizza;
-<li>Cortar e por no prato;
-<li>Cortar e levara a boca;
-<li>Mastigar; 
-<li>Engolir.
+    <li>Pegar o telefone abrir o aplicativo;
+    <li>Fazer o pedido da pizza;
+    <li>Efetuar o pagamento;
+    <li>Receber a pizza;
+    <li>Preparar a mesa;
+    <li>Abrir a pizza;
+    <li>Cortar e por no prato;
+    <li>Cortar e levara a boca;
+    <li>Mastigar; 
+    <li>Engolir.
 </ul>
 
 ## Aula 29.04.2022
