@@ -93,3 +93,7 @@ __COMER PIZZA__
 <p>Daily Scrum, sprint review, sprint planning, uso do Trello.</p>
 <p>Introdução a lógica de programação (continuação aula anterior), abordagem a um case simulando análise, levantamento e solução.</p>
 <p>Algoritmos, diagrama de chapin, fluxogramas etc...</p>
+
+# Aula 02.05.22
+<p>Daily scrum, solicitado ideia de aplicação a ser desenvolvido no curso, continuação a lógica de programação, algoritmos, ambiente de desenvolvimento, contextualização de IDE, tipos de linguagem: compiladas e interpretadas, servidores, XAMPP, variáveis e persistentes e indicação do Portugol para familiarização com linguagem de desenvolvimento.</p>
+
