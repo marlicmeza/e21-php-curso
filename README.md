@@ -11,6 +11,7 @@
     <li>Kanban
     <li>Trello
 </ul>
+
 ## <br>KANBAN
 ### <br>Principios que norteiam:
 <ul>
@@ -97,3 +98,12 @@ __COMER PIZZA__
 # Aula 02.05.22
 <p>Daily scrum, solicitado ideia de aplicação a ser desenvolvido no curso, continuação a lógica de programação, algoritmos, ambiente de desenvolvimento, contextualização de IDE, tipos de linguagem: compiladas e interpretadas, servidores, XAMPP, variáveis e persistentes e indicação do Portugol para familiarização com linguagem de desenvolvimento.</p>
 
+# Aula 03.05.22
+<p>Primeira aula de inglês</p>
+
+# Aula 04.05.22
+<p>Daily scrum, sprint planning, revisão do conteúdo, apresentação e compartilhamento do arquivo README do Professor e criação dos grupos permanentes para trabalhos. Revisão dos comandos git e versionamento no git e github.</p>
+
+# Aula 05.05.22
+Daily scrum, sprint planning, uso do Portugol, professor demonstrou o uso de algumas funções de texto, operações simples, prioridades e divisões inteiras. Finalizamos reunidos com o grupo permanente para praticar o uso do Portugol.</p> 
+Site usado: https://portugol-webstudio.cubos.io/ide
