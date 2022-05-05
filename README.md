@@ -6,60 +6,46 @@
 ### <br>PROF°.  ADRIANO MACHADO
 # <br>Ambientação e  Metodologias Ágeis
 ### <br>Frameworks:
-<ul>
-    <li> Scrum
-    <li>Kanban
-    <li>Trello
-</ul>
-
+    - Scrum
+    - Kanban
+    - Trello
 ## <br>KANBAN
 ### <br>Principios que norteiam:
-<ul>
-    <li>Satisfazer clientes;
-    <li>Aceitar mudanças;
-    <li>Entregas com curtos períodos;
-    <li>Motivação;
-    <li>Simplicidade: a arte de maximar a quantidade de trabalho que não precisa ser feito.
-</ul>
-
+    - Satisfazer clientes;
+    - Aceitar mudanças;
+    - Entregas com curtos períodos;
+    - Motivação;
+    - Simplicidade: a arte de maximar a quantidade de    trabalho que não precisa ser feito.
 ## SCRUM
 ### <br>Pilares:
-<ul>
-    <li>Transparência;
-    <li>Inspeção;
-    <li>Adaptação;
-</ul>
-
+    - Transparência;
+    - Inspeção;
+    - Adaptação;
 ### Valores:
-<ul>
-    <li>Coragem;
-    <li>Foco;
-    <li>Comprometimento;
-    <li>Respeito;
-    <li>Abertura (escutar, compreender ...).
-</ul>
-
+    - Coragem;
+    - Foco;
+    - Comprometimento;
+    - Respeito;
+    - Abertura (escutar, compreender ...).
 ## MANIFESTO ÁGIL
 <p>O Manifesto Ágil foi criado em 1970.</p>
 <p>Seus principios são:</p>
-<ul>
-    <li>Indivíduos são mais importante que processos e ferramentas;
-    <li>O mais importante é indivíduos e interações;
-software em funcionamento é mais importante que documentação abrangente;
-    <li>Colaboração com clientes mais importante que negociação de contratos;
-    <li>Responder a mudanças é mais importante do que seguir um plano.
-</ul>
+
+    - Indivíduos são mais importante que processos e ferramentas;
+    - O mais importante é indivíduos e interações;
+    - Software em funcionamento é mais importante que documentação abrangente;
+    - Colaboração com clientes mais importante que negociação de contratos;
+    - Responder a mudanças é mais importante do que seguir um plano.
 
 ## <br>Aula 25.04.2022
 <p> Continuação do scrum com uso do Trello, compartilhamento do kanban trello, instalação do vscode, git e github desktop e primeiro contato com os colegas em reunião pelo meet em equipes.</p>
 Primeiro contatos com os comandos git:
-<ul>
-    <li> git add . 
-    <li> git commit -m "nome da versão"
-    <li> git push
-    <li> git pull
-</ul> </p>
 
+    . git add . 
+    . git commit -m "nome da versão"
+    . git push
+    . git pull
+ 
 ## Aula 26.04.2022
 <p>Daily scrum com colegas, criação de conta e repositório github, criação do arquivo Readme, clonagem e compartilhamento com o professor que clonou as pastas.
 Alteração no arquivo readme e feito submmit através de comandos prompt, usando vscode.</p>
@@ -77,20 +63,19 @@ __<p>Dinâmica__: Detalhar em 10 passos uma da opções:
 Comer Pizza, Sacar dinheiro e Tomar banho:</p>
 ### Opção escolhida
 __COMER PIZZA__
-<ul>
-    <li>Pegar o telefone abrir o aplicativo;
-    <li>Fazer o pedido da pizza;
-    <li>Efetuar o pagamento;
-    <li>Receber a pizza;
-    <li>Preparar a mesa;
-    <li>Abrir a pizza;
-    <li>Cortar e por no prato;
-    <li>Cortar e levara a boca;
-    <li>Mastigar; 
-    <li>Engolir.
-</ul>
 
-## Aula 29.04.2022
+    . Pegar o telefone abrir o aplicativo;
+    . Fazer o pedido da pizza;
+    . Efetuar o pagamento;
+    . Receber a pizza;
+    . Preparar a mesa;
+    . Abrir a pizza;
+    . Cortar e por no prato;
+    . Cortar e levara a boca;
+    . Mastigar; 
+    . Engolir.
+
+# Aula 29.04.2022
 <p>Daily Scrum, sprint review, sprint planning, uso do Trello.</p>
 <p>Introdução a lógica de programação (continuação aula anterior), abordagem a um case simulando análise, levantamento e solução.</p>
 <p>Algoritmos, diagrama de chapin, fluxogramas etc...</p>
@@ -104,6 +89,19 @@ __COMER PIZZA__
 # Aula 04.05.22
 <p>Daily scrum, sprint planning, revisão do conteúdo, apresentação e compartilhamento do arquivo README do Professor e criação dos grupos permanentes para trabalhos. Revisão dos comandos git e versionamento no git e github.</p>
 
+## Grupo permante Nº 02:
+### INTEGRANTES:
+NUM | NOME |
+---|---|
+1 | Cláudio |
+2 | Bruno |
+3 | Marli |
+4 | Matheus |
+5 | Thiago |
+6 | Willian |
+7 | Débora |
+<br>
+
 # Aula 05.05.22
 Daily scrum, sprint planning, uso do Portugol, professor demonstrou o uso de algumas funções de texto, operações simples, prioridades e divisões inteiras. Finalizamos reunidos com o grupo permanente para praticar o uso do Portugol.</p> 
-Site usado: https://portugol-webstudio.cubos.io/ide
+Site usado: <https://portugol-webstudio.cubos.io/ide>
