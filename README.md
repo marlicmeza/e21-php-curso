@@ -100,6 +100,7 @@ NUM | NOME |
 5 | Thiago |
 6 | Willian |
 7 | Débora |
+<br>
 São esses os sete integrantes da equipe 02
 <br>
 
