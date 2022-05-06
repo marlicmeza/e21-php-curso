@@ -105,5 +105,6 @@ São esses os sete integrantes da equipe 02
 
 # Aula 05.05.22
 Daily scrum, sprint planning, uso do Portugol, professor demonstrou o uso de algumas funções de texto, operações simples, prioridades e divisões inteiras. Finalizamos reunidos com o grupo permanente para praticar o uso do Portugol.</p> 
-Site usado: <https://portugol-webstudio.cubos.io/ide>_target_blank
+Site usado: <https://portugol-webstudio.cubos.io/ide>
+#br
 ♥️ 📖
