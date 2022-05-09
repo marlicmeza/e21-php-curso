@@ -1,0 +1,18 @@
+programa
+{
+	funcao inicio()
+	{
+		real a, b, mult
+		
+		escreva("Digite a altura do retângulo: ")
+		leia(a)
+
+		escreva("Digite o comprimento do retangulo: ")
+		leia(b)
+
+		mult = a * b // Multiplica os dois valores
+		
+		escreva("\nA area calculada do retangulo é igual a: ", mult, "cm2") 	// Exibe o resultado da multiplicação
+		
+	}
+}

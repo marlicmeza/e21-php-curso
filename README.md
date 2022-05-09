@@ -113,7 +113,7 @@
  Reunião dos grupos para prática do Portugol e retorno para sala principal para continuação da aula com Portugol.
  
  ♥️ 📖
- ![](img%5CGit.png)
+  ![](img%5CGit.png)
 
 # REFERÊNCIAS:
  Site usado: <https://portugol-webstudio.cubos.io/ide>
