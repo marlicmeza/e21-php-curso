@@ -11,25 +11,29 @@ programa
 		escreva("Digite o comprimento do retangulo: ")
 		leia(b)
 
-		mult = a * b // Multiplica os dois valores
+		mult = a * b 
 		
-		escreva("\nA area calculada do retangulo é igual a: ", mult, "cm2\n") 	// Exibe o resultado da multiplicação
+		escreva("\nA area calculada do retangulo é igual a: ", mult, "cm2\n")
 
+		mult = a * b / 100
+		
+		escreva("\nA area calculada do retangulo em metros é igual a: ", mult, "m2\n")
+		
         se (mult <= 1000)
 		{ 
-			escreva ("A area calculada é um terreno\n") 
+			escreva ("A area calculada é um terreno!\n") 
 		}
-		se (mult <= 5000)
+		senao se (mult <= 5000)
 		{ 
-			escreva ("A area calculada é um sitio\n") 
+			escreva ("A area calculada é um sitio!\n") 
 		}
-		se (mult <= 10000)
+		senao se (mult <= 10000)
 		{ 
-			escreva ("A area calculada é um hectare\n") 
+			escreva ("A area calculada é um hectare!\n") 
 		}
-		se (mult > 1000)
+		senao
 		{ 
-			escreva ("A area calculada é uma fazenda\n") 
+			escreva ("A area calculada é uma fazenda!\n") 
 		}
 	}
 }
