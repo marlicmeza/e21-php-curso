@@ -1,0 +1,32 @@
+programa  
+{
+	funcao inicio ()
+	{ 	
+		inteiro numeroA, numeroB
+		
+		
+		escreva("Digite um numero A : ")
+		leia(numeroA)
+        
+        escreva("Digite um numero B: ")
+		leia(numeroB)
+		
+		se (numeroA == numeroB)
+		{ 
+			escreva("\nO número A e numero B são iguais!") 
+		}
+		senao
+		{
+			escreva("\nO numero A e número B são diferentes!")
+		}
+		se (numeroA > numeroB)
+		{ 
+			escreva("\nO numero A é maior que numero B") 
+		}
+		
+		senao se (numeroA < numeroB)
+		{
+			escreva("\nO numero A é menor que numero B!")
+		}	
+	}   
+}

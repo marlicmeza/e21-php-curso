@@ -12,4 +12,4 @@ programa
 
 		mult = a * b // Multiplica os dois valores
 		
-		escreva("\nA area calculada do retangulo é igual a: ", mult, "cm2\n") 	// Exibe o resultado da multiplicação
+		escreva("\nA area calculada do retangulo é igual a: ", mult, "cm2\n") 

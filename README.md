@@ -111,9 +111,48 @@
  Daily scrum, sprint review, revisão da agenda, continuação do uso do Portugol, explanação sobre identação.
  No Portugol foi testado uso de funções dentro de Desvios Condicionais, feito mudança de nome da função (jacaré), testado execução, troca de váriaveis, médias, idade do usuário. 
  Reunião dos grupos para prática do Portugol e retorno para sala principal para continuação da aula com Portugol.
+
+ # Aula 09.05.22
+ Daily scrum, sprint review, continuação do Portugol, exercícios em grupo no Portugol. 
+ 
+  *Exercício 01:* 
+ - Elbore um algoritmo que calcule a área de um retangulo qualquer, 
+ recebendo, para isso o valor da base e da altura em centimetros; 
+ - Imprima o tamanho em centimetros; 
+ - Fazer commit.
+
+ *Exercício 02:*
+ - Adicionar condicional composta;
+ - Adicione o seguinte teste em eu algoritmo;
+ - Modifique a unidade para metros;
+ - O Retangulo agora representará uma area de terra;
+ - Calcule a medida de frente e lateral da área e informe o usuário se a área informada se trata de:
+    - um Terreno até 1000m2; 
+    - Um sítio, até 5000m2;
+    - Em Hectare de terra até 10000m2;
+    - Uma fazenda acima de 10000m2;
+
+ *Exercício 03*
+ Elabore um algoritmo que receba o salario bruto de um funcionario e calcule o desconto de INSS de acordo com a sua faixa salarial:
+ 1. < 1000 5% desconto;
+ 2. < 2000 7% desconto;
+ 3. < 4000 9% desconto;
+ 4. < 10000 9.5% desconto;
+ 5. > 10000 10% desconto.
+
+ *Exercício 04*
+ Elabore um algoritmo que receba dois numeros pelo teclado e compare se os numeros são:
+ - iguais;
+ - A < B;
+ - B < A;
+ E informe o usuário.
+
+ [Exercício 01](exerc%C3%ADcios%20portugol%5Cex01.portugol)
+ [Exercício 02](exerc%C3%ADcios%20portugol%5Cex02.portugol)
+ [Exercício 03](exerc%C3%ADcios%20portugol%5Cex03.portugol)
  
  ♥️ 📖
-  ![](img%5CGit.png)
+    ![](img%5CGit.png)
 
 # REFERÊNCIAS:
  Site usado: <https://portugol-webstudio.cubos.io/ide>
