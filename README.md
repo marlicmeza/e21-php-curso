@@ -1,4 +1,4 @@
-![](img%5CEntra21.png)
+ ![](img%5CEntra21.png)
 # __e21php-curso__ 
 # <br> PROJETO ENTRA 21-22
  ### <br>MARLI CONSTANTINO MEZA
@@ -101,8 +101,8 @@
      5 | Thiago |
      6 | Willian |
      7 | Débora |
- 
- Esses são os sete integrantes da equipe permanente nº 02.
+
+  Esses são os sete integrantes da equipe permanente nº 02.
 
  # Aula 05.05.22
  Daily scrum, sprint review, uso do Portugol, professor demonstrou o uso de algumas funções de texto, operações simples, prioridades e divisões inteiras. Finalizamos reunidos com o grupo permanente para praticar o uso do Portugol.
@@ -116,7 +116,7 @@
  Daily scrum, sprint review, continuação do Portugol, exercícios em grupo no Portugol. 
  
   *Exercício 01:* 
- - Elbore um algoritmo que calcule a área de um retangulo qualquer, 
+ - Elabore um algoritmo que calcule a área de um retangulo qualquer, 
  recebendo, para isso o valor da base e da altura em centimetros; 
  - Imprima o tamanho em centimetros; 
  - Fazer commit.
@@ -132,8 +132,8 @@
     - Em Hectare de terra até 10000m2;
     - Uma fazenda acima de 10000m2;
 
- *Exercício 03*
- Elabore um algoritmo que receba o salario bruto de um funcionario e calcule o desconto de INSS de acordo com a sua faixa salarial:
+ *Exercício 03:*
+ * Elabore um algoritmo que receba o salario bruto de um funcionario e calcule o desconto de INSS de acordo com a sua faixa salarial:
  1. < 1000 5% desconto;
  2. < 2000 7% desconto;
  3. < 4000 9% desconto;
@@ -145,14 +145,49 @@
  - iguais;
  - A < B;
  - B < A;
- E informe o usuário.
+ - E informe o usuário.
+ __Resoluções:__ \
+ [Exercício 01](exerc%C3%ADcios%20portugol%5Cex01.portugol) \
+ [Exercício 02](exerc%C3%ADcios%20portugol%5Cex02.portugol) \
+ [Exercício 03](exerc%C3%ADcios%20portugol%5Cex03.portugol) \
+ [Exercício 04](exerc%C3%ADcios%20portugol%5Cex04.portugol)
 
- [Exercício 01](exerc%C3%ADcios%20portugol%5Cex01.portugol)
- [Exercício 02](exerc%C3%ADcios%20portugol%5Cex02.portugol)
- [Exercício 03](exerc%C3%ADcios%20portugol%5Cex03.portugol)
+ # Aula 10.05.22
+ Aula de inglês.
+
+# Aula Magna
+ Apresentação dos profissionais responsáveis pela criação e andamento do programa. Patrocinadores, responsáves pela viabilidade financeira do programa.
+ Participação online de todos os alunos participantes do programa Entra21. 
+ Palestra com Camila Renaux abordando o tema Marketing Pessoal e uso de redes socias.
  
+# Aula 12.05.22
+ Abordagem sobre Aula Magna, daily scrum voltado para o assunto Aula Magna.
+ Exemplo de resolução de exercício com uso de função, interação em grupo para resolução de exercícios.
+
+ *Exercício 03b* \
+ Solicite um valor do usuario (inteiro)
+ Verifique se o valor está entre:
+ - <0 = imprimir: NUMERO NEGATIVO
+ - 0 e 9 = imprimir a palavra:ZERO a NOVE
+ - 10 e 19 = imprimir a palavra:DEZ a DEZENOVE
+ - 20 e 29 = imprimir a palavra:VINTE A VINTE E NOVE
+ - 30 e 39 = imprimir a palavra:TRINTA A TRINTA E NOVE
+ - > = 40 = imprimir: QUARENTA OU MAIOR
+ - NO final calcule 50% do valor digitado e imprima: 50 por cento do valor informado é: RESULTADO
+ 
+ *Exercício 04b*
+ - adicione um laço de repetição para todo o algoritmo que seja executado até que a multiplicação resulte em 1000;
+ - ao sair informe o usuario que o resultado é igual a 1000 e aborte o laço. 
+ - utilize o recurso de funcões() para este Exercicio.\
+ __Resoluções:__\
+ [Exercício 03b](exerc%C3%ADcios%20portugol%5Cex03b.portugol) \
+ [Exercício 04b](exerc%C3%ADcios%20portugol%5Cex05.portugol)
+
  ♥️ 📖
     ![](img%5CGit.png)
 
 # REFERÊNCIAS:
- Site usado: <https://portugol-webstudio.cubos.io/ide>
+ **Sites:**\
+ [Site Portugol](https://portugol-webstudio.cubos.io/ide)\
+ [Playlist das aulas](https://www.youtube.com/playlist?list=PL2WEynOui8TQxNqHE7IXrlirkVM7SDp9w) \
+ [Formatação Markdown](https://markdown.net.br/sintaxe-basica/#headings-alternative-syntax)
