@@ -1,17 +1,12 @@
 programa {
-  funcao inicio() {
-  inteiro n1, n2, resultado = 0
-
-    enquanto(resultado != 1000){
-        escreva("Digite o primeiro número: ")
-        leia(n1)
-        escreva("Digite o segundo número: ")
-        leia(n2)
-        resultado = n1 * n2
-        escreva(resultado,"\n")
+  funcao atividade() {
+    cadeia mensagem
+    mensagem = ("Tenha um BOM DIA!")
+    escreva(mensagem)
     }
-escreva("============================= ")
-escreva(" O seu número é igual a 1000, FIM DO LAÇO! ")
-escreva(" =============================")
+  funcao inicio() {
+    atividade()
+  }
+  
 }
-}
+

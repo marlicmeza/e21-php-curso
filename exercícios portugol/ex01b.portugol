@@ -1,0 +1,42 @@
+programa
+{
+	funcao inicio()
+	{
+		inteiro a = 60, b = 80, mult, per, alt, base, area, per2
+				
+		mult = a * b 
+		
+		escreva("\nA area calculada do retangulo em metros é igual a: ", mult, "m2\n")
+		
+		// versão 002
+
+		per = 2 * (a * b)
+        
+        escreva("\nO perímetro do retangulo é: ", per, "m2\n")
+
+		// versão 003
+        
+        escreva("\nDigite a altura do retangulo:  ")
+        leia(alt)
+        escreva("Digite a base do retangulo: ")
+        leia(base)
+        
+		area = alt * base
+		per2 = 2 * (alt * base)
+		
+		escreva("\nA area do retangulo de acordo com as medidas fornecidas são: ", area, "m2\n")
+		
+		//versão 004
+		
+		se (per2 > area)
+		{
+		    escreva("\nO perímetro é maior que a area.")
+		}
+		senao
+		{
+		    escreva("\nA area é maior que o perímetro.")
+		}
+		
+
+		}
+	}

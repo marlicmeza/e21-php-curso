@@ -121,7 +121,7 @@
  - Imprima o tamanho em centimetros; 
  - Fazer commit.
 
- *Exercício 02:*
+ *Exercício 01 versão 02:*
  - Adicionar condicional composta;
  - Adicione o seguinte teste em eu algoritmo;
  - Modifique a unidade para metros;
@@ -140,7 +140,7 @@
  4. < 10000 9.5% desconto;
  5. > 10000 10% desconto.
 
- *Exercício 04*
+ *Exercício 02*
  Elabore um algoritmo que receba dois numeros pelo teclado e compare se os numeros são:
  - iguais;
  - A < B;
@@ -148,9 +148,9 @@
  - E informe o usuário.
  __Resoluções:__ \
  [Exercício 01](exerc%C3%ADcios%20portugol%5Cex01.portugol) \
- [Exercício 02](exerc%C3%ADcios%20portugol%5Cex02.portugol) \
+ [Exercício 01v02](exerc%C3%ADcios%20portugol%5Cex01v02.portugol)\
  [Exercício 03](exerc%C3%ADcios%20portugol%5Cex03.portugol) \
- [Exercício 04](exerc%C3%ADcios%20portugol%5Cex04.portugol)
+ [Exercício 02](exerc%C3%ADcios%20portugol%5Cex02.portugol)
 
  # Aula 10.05.22
  Aula de inglês.
@@ -175,14 +175,39 @@
  - > = 40 = imprimir: QUARENTA OU MAIOR
  - NO final calcule 50% do valor digitado e imprima: 50 por cento do valor informado é: RESULTADO
  
- *Exercício 04b*
+ *Exercício 04*
  - adicione um laço de repetição para todo o algoritmo que seja executado até que a multiplicação resulte em 1000;
  - ao sair informe o usuario que o resultado é igual a 1000 e aborte o laço. 
  - utilize o recurso de funcões() para este Exercicio.\
  __Resoluções:__\
- [Exercício 03b](exerc%C3%ADcios%20portugol%5Cex03b.portugol) \
- [Exercício 04b](exerc%C3%ADcios%20portugol%5Cex05.portugol)
+ [Exercício 03b](exerc%C3%ADcios%20portugol%5Cex03b.portugol)\
+ [Exercício 04](exerc%C3%ADcios%20portugol%5Cex04.portugol)
 
+# Aula 13.05.22
+ Daily scrum, sprint review, continuação dos exercícios em grupo. \
+ *Exercicio: 001b: Versão 001;*
+ - Calcule a area de um retangulo.
+ - Sem solicitar dados ao usuário.
+ - Para isto defina as variáveis: ladoA, LadoB, resultado. 
+ - Imprima o resultado.
+
+ *Exercício 02b;*
+ - Receba os dados de duas variaveis. 
+ - Imprimir o resultado da multiplicação das duas variaveis. 
+ - Calcule a raiz quadrada do resultado e imprima. 
+
+ *Exercício 04b;* \
+ Crie uma funcao que imprima uma mensagem ao ser chamada.
+
+ *Exercício 05b;* \
+ Solicite ao usuario informar um numero inteiro entre 1 e 3
+ utilize case para imprimir Maça, para 1, Pera para 2, e Melancia para 3. 
+
+ __Resoluções:__\
+ [Exercício 01b v01/02/03/04](exerc%C3%ADcios%20portugol%5Cex01b.portugol) \
+ [Exercício 02b](exerc%C3%ADcios%20portugol%5Cex02b.portugol) \
+ [Exercício 04b](exerc%C3%ADcios%20portugol%5Cex04b.portugol) \
+ [Exercício 05b](exerc%C3%ADcios%20portugol%5Cex05b.portugol) \
  ♥️ 📖
     ![](img%5CGit.png)
 

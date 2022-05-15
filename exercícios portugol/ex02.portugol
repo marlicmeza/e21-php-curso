@@ -1,39 +1,32 @@
-programa
+programa  
 {
-	inclua biblioteca Matematica --> mat
-	funcao inicio()
-	{
-		real a, b, mult
+	funcao inicio ()
+	{ 	
+		inteiro numeroA, numeroB
 		
-		escreva("Digite a altura do retângulo: ")
-		leia(a)
-
-		escreva("Digite o comprimento do retangulo: ")
-		leia(b)
-
-		mult = a * b 
 		
-		escreva("\nA area calculada do retangulo é igual a: ", mult, "cm2\n")
-
-		mult = a * b / 100
+		escreva("Digite um numero A : ")
+		leia(numeroA)
+        
+        escreva("Digite um numero B: ")
+		leia(numeroB)
 		
-		escreva("\nA area calculada do retangulo em metros é igual a: ", mult, "m2\n")
-		
-        se (mult <= 1000)
+		se (numeroA == numeroB)
 		{ 
-			escreva ("A area calculada é um terreno!\n") 
-		}
-		senao se (mult <= 5000)
-		{ 
-			escreva ("A area calculada é um sitio!\n") 
-		}
-		senao se (mult <= 10000)
-		{ 
-			escreva ("A area calculada é um hectare!\n") 
+			escreva("\nO número A e numero B são iguais!") 
 		}
 		senao
-		{ 
-			escreva ("A area calculada é uma fazenda!\n") 
+		{
+			escreva("\nO numero A e número B são diferentes!")
 		}
-	}
+		se (numeroA > numeroB)
+		{ 
+			escreva("\nO numero A é maior que numero B") 
+		}
+		
+		senao se (numeroA < numeroB)
+		{
+			escreva("\nO numero A é menor que numero B!")
+		}	
+	}   
 }

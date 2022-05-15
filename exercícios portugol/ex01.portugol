@@ -1,8 +1,8 @@
-orprograma
+programa
 {
 	funcao inicio()
 	{
-		real a, b, mult
+		inteiro a, b, mult
 		
 		escreva("Digite a altura do retângulo: ")
 		leia(a)
@@ -10,6 +10,10 @@ orprograma
 		escreva("Digite o comprimento do retangulo: ")
 		leia(b)
 
-		mult = a * b // Multiplica os dois valores
+		mult = a * b 
 		
-		escreva("\nA area calculada do retangulo é igual a: ", mult, "cm2\n") 
+		escreva("\nA area calculada do retangulo em metros é igual a: ", mult, "m2\n")
+		
+		
+		}
+	}
