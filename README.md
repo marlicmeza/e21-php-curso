@@ -208,6 +208,21 @@
  [Exercício 02b](exerc%C3%ADcios%20portugol%5Cex02b.portugol) \
  [Exercício 04b](exerc%C3%ADcios%20portugol%5Cex04b.portugol) \
  [Exercício 05b](exerc%C3%ADcios%20portugol%5Cex05b.portugol) \
+
+# Aula 16.05.22
+ Daily srcum, sprint review, explicação de como resolver exercícios utilizando condicional para extinguir dúvidas, instalação do xampp, instalação do discord, configuração e ambientação do uso.
+
+# Aula inglês - 17.05.22
+
+# Aula 18.05.22
+ Daily scrum, sprint review, introdução ao php, verificação de versão do vscode, verificação variáveis de ambiente, criação da pasta www no vscode, criação do primeiro arquivo index.php e acesso ao arquivo em html, criação dos exercícios: e001.php, e002.php, e003.php e e004.php.
+
+ __Exercícios php__
+ [e001.php](www%5Ce001.php) \
+ [e002.php](www%5Ce002.php) \
+ [e003.php](www%5Ce003.php) \
+ [e004.php](www%5Ce004.php) \
+
  ♥️ 📖
     ![](img%5CGit.png)
 
@@ -216,3 +231,4 @@
  [Site Portugol](https://portugol-webstudio.cubos.io/ide)\
  [Playlist das aulas](https://www.youtube.com/playlist?list=PL2WEynOui8TQxNqHE7IXrlirkVM7SDp9w) \
  [Formatação Markdown](https://markdown.net.br/sintaxe-basica/#headings-alternative-syntax)
+ [Branches](https://www.youtube.com/watch?v=xAOBQtSVI_k)
