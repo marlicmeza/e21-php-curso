@@ -221,7 +221,21 @@
  [e001.php](www%5Ce001.php) \
  [e002.php](www%5Ce002.php) \
  [e003.php](www%5Ce003.php) \
- [e004.php](www%5Ce004.php) \
+ [e004.php](www%5Ce004.php) 
+
+# Aula 19.05.22
+ Prática de exercícios php.
+
+ __Exercícios php__ \
+ [e005.php](www%5Ce005.php) \
+ [e006.php](www%5Ce006.php) \
+ [e007.php](www%5Ce007.php) \
+ [e008.php](www%5Ce008.php) \
+ [e009.php](www%5Ce009.php) \
+ [e010.php](www%5Ce010.php) \
+ [e011.php](www%5Ce011.php) \
+ [e012.php](www%5Ce012.php) \
+ [e013.php](www%5Ce013.php)
 
  ♥️ 📖
     ![](img%5CGit.png)
@@ -230,5 +244,5 @@
  **Sites:**\
  [Site Portugol](https://portugol-webstudio.cubos.io/ide)\
  [Playlist das aulas](https://www.youtube.com/playlist?list=PL2WEynOui8TQxNqHE7IXrlirkVM7SDp9w) \
- [Formatação Markdown](https://markdown.net.br/sintaxe-basica/#headings-alternative-syntax)
+ [Formatação Markdown](https://markdown.net.br/sintaxe-basica/#headings-alternative-syntax) \
  [Branches](https://www.youtube.com/watch?v=xAOBQtSVI_k)
