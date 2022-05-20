@@ -224,7 +224,7 @@
  [e004.php](www%5Ce004.php) 
 
 # Aula 19.05.22
- Prática de exercícios php.
+ Prática de exercícios php, introdução a variável, array... *TERMINAR*
 
  __Exercícios php__ \
  [e005.php](www%5Ce005.php) \
@@ -237,6 +237,13 @@
  [e012.php](www%5Ce012.php) \
  [e013.php](www%5Ce013.php)
 
+# Aula 20.05.22
+ Daily scrum, nivelamento de conteúdo e exercícios em sala.
+
+ __Exercícios php__ \
+ [e014.php](www%5Ce014.php) \
+ [e015.php](www%5Ce015.php) \
+ [e016.php](www%5Ce016.php)
  ♥️ 📖
     ![](img%5CGit.png)
 
