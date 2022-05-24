@@ -244,6 +244,7 @@
  [e014.php](www%5Ce014.php) \
  [e015.php](www%5Ce015.php) \
  [e016.php](www%5Ce016.php)
+ 
  ♥️ 📖
     ![](img%5CGit.png)
 
@@ -252,4 +253,5 @@
  [Site Portugol](https://portugol-webstudio.cubos.io/ide)\
  [Playlist das aulas](https://www.youtube.com/playlist?list=PL2WEynOui8TQxNqHE7IXrlirkVM7SDp9w) \
  [Formatação Markdown](https://markdown.net.br/sintaxe-basica/#headings-alternative-syntax) \
- [Branches](https://www.youtube.com/watch?v=xAOBQtSVI_k)
+ [Branches](https://www.youtube.com/watch?v=xAOBQtSVI_k) \
+ [Manual operadores PHP](php.net/manual/pt_BR/language.operators.logical.php)
