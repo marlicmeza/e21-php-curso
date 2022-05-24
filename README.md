@@ -92,15 +92,15 @@
 
 ## Grupo permante Nº 02:
 ### INTEGRANTES:
-     NUM | NOME |
-     ---|---|
-     1 | Cláudio |
-     2 | Bruno |
-     3 | Marli |
-     4 | Matheus |
-     5 | Thiago |
-     6 | Willian |
-     7 | Débora |
+     NUM |   NOME  |
+     ----|---------|
+     1   | Cláudio |
+     2   | Bruno   |
+     3   | Marli   |
+     4   | Matheus |
+     5   | Thiago  |
+     6   | Willian |
+     7   | Débora  |
 
   Esses são os sete integrantes da equipe permanente nº 02.
 
@@ -147,10 +147,10 @@
  - B < A;
  - E informe o usuário.
  __Resoluções:__ \
- [Exercício 01](exerc%C3%ADcios%20portugol%5Cex01.portugol) \
- [Exercício 01v02](exerc%C3%ADcios%20portugol%5Cex01v02.portugol)\
- [Exercício 03](exerc%C3%ADcios%20portugol%5Cex03.portugol) \
- [Exercício 02](exerc%C3%ADcios%20portugol%5Cex02.portugol)
+ [Exercício 01](exercicios%5Cexercicio%20portugol%5Cex01.portugol) \
+ [Exercício 01v02](exercicios%5Cexercicio%20portugol%5Cex01v02.portugol)[Exercício 03](exercicios%5Cexercicio%20portugol%5Cex03.portugol)\
+  \
+ [Exercício 02](exercicios%5Cexercicio%20portugol%5Cex02.portugol)
 
  # Aula 10.05.22
  Aula de inglês.
@@ -180,8 +180,8 @@
  - ao sair informe o usuario que o resultado é igual a 1000 e aborte o laço. 
  - utilize o recurso de funcões() para este Exercicio.\
  __Resoluções:__\
- [Exercício 03b](exerc%C3%ADcios%20portugol%5Cex03b.portugol)\
- [Exercício 04](exerc%C3%ADcios%20portugol%5Cex04.portugol)
+ [Exercício 03b](exercicios%5Cexercicio%20portugol%5Cex03b.portugol) \
+ [Exercício 04](exercicios%5Cexercicio%20portugol%5Cex04.portugol)
 
 # Aula 13.05.22
  Daily scrum, sprint review, continuação dos exercícios em grupo. \
@@ -204,10 +204,10 @@
  utilize case para imprimir Maça, para 1, Pera para 2, e Melancia para 3. 
 
  __Resoluções:__\
- [Exercício 01b v01/02/03/04](exerc%C3%ADcios%20portugol%5Cex01b.portugol) \
- [Exercício 02b](exerc%C3%ADcios%20portugol%5Cex02b.portugol) \
- [Exercício 04b](exerc%C3%ADcios%20portugol%5Cex04b.portugol) \
- [Exercício 05b](exerc%C3%ADcios%20portugol%5Cex05b.portugol) \
+ [Exercício 01b v01/02/03/04](exercicios%5Cexercicio%20portugol%5Cex01b.portugol) \
+  [Exercício 02b](exercicios%5Cexercicio%20portugol%5Cex02b.portugol)\
+ [Exercício 04b](exercicios%5Cexercicio%20portugol%5Cex04b.portugol) \
+ [Exercício 05b](exercicios%5Cexercicio%20portugol%5Cex05b.portugol) \
 
 # Aula 16.05.22
  Daily srcum, sprint review, explicação de como resolver exercícios utilizando condicional para extinguir dúvidas, instalação do xampp, instalação do discord, configuração e ambientação do uso.
@@ -224,7 +224,8 @@
  [e004.php](www%5Ce004.php) 
 
 # Aula 19.05.22
- Prática de exercícios php, introdução a variável, array... *TERMINAR*
+ Prática de exercícios php, introdução a variável, array e objetos. \
+ Array é uma lista de valores armazenada na memória que pode ser de tipos diferentes de dados (números, strings, objetos).
 
  __Exercícios php__ \
  [e005.php](www%5Ce005.php) \
@@ -239,11 +240,36 @@
 
 # Aula 20.05.22
  Daily scrum, nivelamento de conteúdo e exercícios em sala.
+ >Comando PRETTIER para identar o código (CTRL+ALT+F).
+ >Comadando para ativar/desativar comentário de linha (CTRL+;).
 
  __Exercícios php__ \
  [e014.php](www%5Ce014.php) \
  [e015.php](www%5Ce015.php) \
  [e016.php](www%5Ce016.php)
+
+# Aula 23.05.22
+ Exercícios em sala com professor até o intervalo e após resolução de lista de exercícios em grupo.
+
+ __Exercícíos php em sala__ \
+ [e017.php](www%5Ce017.php) \
+ [e018_1.php](www%5Ce018_1.php) \
+ [e018_2.php](www%5Ce018_2.php) \
+ [e018_3.php](www%5Ce018-3.php) \
+ [e018_4.php](www%5Ce018_4.php) \
+ [e019_1.php](www%5Ce019_1.php)
+
+ __Exercícios php em grupo__ \
+ [ephp_001.php](exercicios%5Cexphp%5Cephp_001.php) \
+ [ephp_002.php](exercicios%5Cexphp%5Cephp_002.php) \
+ [ephp_003.php](exercicios%5Cexphp%5Cephp_003.php) \
+ [ephp_004.php](exercicios%5Cexphp%5Cephp_004.php) \
+ [ephp_005.php](exercicios%5Cexphp%5Cephp_005.php) \
+ [ephp_006.php](exercicios%5Cexphp%5Cephp_006.php) \
+ [ephp_007.php](exercicios%5Cexphp%5Cephp_007.php) \
+ [ephp_009.php](exercicios%5Cexphp%5Cephp_008.php) \
+ [ephp_010.php](exercicios%5Cexphp%5Cephp_010.php)
+
  
  ♥️ 📖
     ![](img%5CGit.png)

@@ -15,3 +15,10 @@ echo "$n4 <br>";
 echo "$n5 <br>";
 
 ?>
+
+
+<?php
+    $lista =  array('Marylin', 'Paul', 'Pedrina', 'Saul', 'Josue');
+    print_r($lista);
+    echo "<br>..."
+?>
