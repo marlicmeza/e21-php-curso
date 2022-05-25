@@ -1,8 +1,16 @@
 <?php
-$n1 = "52";
-$n2 = "106";
-
-$subtracao = ($n1-$n2);
-$res = $subtracao;
+$lista = array('Marylin', 'Paul', 'Pedrina', 'Saul', 'Josue');
+echo "$lista: ";
+echo "<br>";
+$result = count($lista);
+echo $result;
+echo "<br>";
+$tipo1 = gettype($lista);
+echo "<br>";
+print_r($tipo1);
+echo "<br>";
+var_dump($tipo1);
+echo "<br>";
+echo $lista[3];
 
 ?>

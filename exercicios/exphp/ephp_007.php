@@ -7,7 +7,7 @@
     </title>
     <body>
         <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" >
-             Digite o numero: <input type="text" name="fname">
+             Digite o numero: <input type="floatval" name="fname">
              <input type="submit">
         </form>
     </body>

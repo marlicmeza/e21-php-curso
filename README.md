@@ -270,6 +270,14 @@
  [ephp_009.php](exercicios%5Cexphp%5Cephp_008.php) \
  [ephp_010.php](exercicios%5Cexphp%5Cephp_010.php)
 
+# Aula 24.05.22
+ Aula de inglês.
+
+# Aula 25.05.22
+ Exercícios em grupo.
+
+ 
+
  
  ♥️ 📖
     ![](img%5CGit.png)

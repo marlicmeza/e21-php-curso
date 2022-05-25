@@ -6,6 +6,9 @@ mostre separadamente apenas o terceiro elemento desta lista. -->
 $lista = array('Marylin', 'Paul', 'Pedrina', 'Saul', 'Josue');
 echo "$lista: ";
 echo "<br>";
+$result = count($lista);
+echo "O numero de elementos é:" . $result;
+echo "<br>";
 $tipo1 = gettype($lista);
 echo "<br>";
 print_r($tipo1);
