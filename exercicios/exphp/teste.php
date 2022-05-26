@@ -10,3 +10,14 @@
     
 </body>
 </html>
+
+<?php
+$var1 = 0;
+$var2 = 20;
+while ($var1 < $var2){
+    echo $var1 =$var1 + 2;
+   
+    
+}
+
+?>

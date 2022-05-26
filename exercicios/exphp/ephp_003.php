@@ -3,8 +3,9 @@
 
 <?php
 
-// A == B : A é igual a B;
-// A === B: A é idêntico a B;
-// A = B:  A recebe B.
+/* A == B : A é igual a B;
+ A === B: A é idêntico a B;
+ A = B:  A recebe B.
+*/
 
 ?>
