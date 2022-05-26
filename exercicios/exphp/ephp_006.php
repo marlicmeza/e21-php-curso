@@ -3,10 +3,10 @@
 
 <?php
 
-$num = "num1 = 1975";
-echo $num;
+$num1 =  1975;
+echo $num1;
 echo "<br>";
-$tipo = gettype($num);
+$tipo = gettype($num1);
 echo $tipo;
 echo "<br>";
 

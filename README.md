@@ -92,15 +92,15 @@
 
 ## Grupo permante Nº 02:
 ### INTEGRANTES:
-     NUM |   NOME  |
-     ----|---------|
-     1   | Cláudio |
-     2   | Bruno   |
-     3   | Marli   |
-     4   | Matheus |
-     5   | Thiago  |
-     6   | Willian |
-     7   | Débora  |
+     NUM | NOME |
+     ---|---|
+     1 | Cláudio |
+     2 | Bruno |
+     3 | Marli |
+     4 | Matheus |
+     5 | Thiago |
+     6 | Willian |
+     7 | Débora |
 
   Esses são os sete integrantes da equipe permanente nº 02.
 
@@ -207,7 +207,7 @@
  [Exercício 01b v01/02/03/04](exercicios%5Cexercicio%20portugol%5Cex01b.portugol) \
   [Exercício 02b](exercicios%5Cexercicio%20portugol%5Cex02b.portugol)\
  [Exercício 04b](exercicios%5Cexercicio%20portugol%5Cex04b.portugol) \
- [Exercício 05b](exercicios%5Cexercicio%20portugol%5Cex05b.portugol) \
+ [Exercício 05b](exercicios%5Cexercicio%20portugol%5Cex05b.portugol) 
 
 # Aula 16.05.22
  Daily srcum, sprint review, explicação de como resolver exercícios utilizando condicional para extinguir dúvidas, instalação do xampp, instalação do discord, configuração e ambientação do uso.
@@ -217,7 +217,7 @@
 # Aula 18.05.22
  Daily scrum, sprint review, introdução ao php, verificação de versão do vscode, verificação variáveis de ambiente, criação da pasta www no vscode, criação do primeiro arquivo index.php e acesso ao arquivo em html, criação dos exercícios: e001.php, e002.php, e003.php e e004.php.
 
- __Exercícios php__
+ __Exercícios php__ \
  [e001.php](www%5Ce001.php) \
  [e002.php](www%5Ce002.php) \
  [e003.php](www%5Ce003.php) \

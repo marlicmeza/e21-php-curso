@@ -8,7 +8,7 @@ exibindo em tela tanto o numero em si como o seu tipo de dado. -->
     </title>
     <body>
         <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" >
-             Digite o numero: <input type="text" name="fname">
+             Digite o numero: <input type="float" name="fname">
              <input type="submit">
         </form>
     </body>
@@ -18,11 +18,9 @@ exibindo em tela tanto o numero em si como o seu tipo de dado. -->
 <?php if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $n = $_POST['fname'];
     $valor_float = floatval ($n);
-    echo 'O valor inteiro é: ' . $n . '<br>';  // mostra 122.34343
-    echo 'O valor de float é: ' .$valor_float; // mostra 122.34343
+    echo 'O valor inteiro é: ' . $n . '<br>';  
+    echo 'O valor de float é: ' .$valor_float; 
     echo "<br>";
-    $tipo = gettype($n);
-    echo $tipo;
     echo "<br>";
     var_dump(round("$n"));
     

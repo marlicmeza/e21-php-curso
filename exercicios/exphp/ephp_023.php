@@ -8,15 +8,3 @@
    
 ?>
 
-//   <!-- function sleepFloatSecs($secs) {
-//     $intSecs = intval($secs);
-//     $microSecs = ($secs - $intSecs) * 1000000;
-
-//     if($intSecs > 0) {
-//       sleep($intSecs);
-//     }
-//     if($microSecs > 0) {
-//       usleep($microSecs);
-//     }
-//   }
-// 

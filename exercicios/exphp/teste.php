@@ -1,23 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+$frase = raw_input('Informe uma frase').split(" ")  
+    aux = ""
 
-<?php
-$var1 = 0;
-$var2 = 20;
-while ($var1 < $var2){
-    echo $var1 =$var1 + 2;
-   
-    
-}
+for i in range(0, len($frase)):
+    aux += frase[i]
 
-?>
+$frase = aux.split(".") 
+aux = ""
+
+for i in range(0, len($frase)): 
+    aux += frase[i]
+
+$frase = aux.split(",") 
+aux = ""
+
+for i in range(0, len($frase)): 
+    aux += frase[i]
+
+if aux.lower() == aux.lower()[::-1]: 
+    print 'É palíndromo'
+else:
+    print 'Não é palíndromo'

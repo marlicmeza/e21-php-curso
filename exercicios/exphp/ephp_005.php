@@ -1,7 +1,5 @@
 <!-- ephp_005.php -->
 <!-- Crie uma variavel nome e atribua a mesma um nome digitado pelo usuario -->
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,6 +20,7 @@
 $nome = "";
 if(!empty($_REQUEST["nome"])) {
   $n = $_REQUEST["nome"];
-    print $nome . $n;
+    $nome = $_POST["nome"];
+    echo 'O nome digitado é: '.$nome;
 }
 ?>
