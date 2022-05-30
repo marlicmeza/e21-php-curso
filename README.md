@@ -1,4 +1,4 @@
- ![](img%5CEntra21.png)
+ ![e-21](img%5CEntra21.png) 
 # __e21php-curso__ 
 # <br> PROJETO ENTRA 21-22
  ### <br>MARLI CONSTANTINO MEZA
@@ -92,15 +92,15 @@
 
 ## Grupo permante Nº 02:
 ### INTEGRANTES:
-     NUM | NOME |
-     ---|---|
-     1 | Cláudio |
-     2 | Bruno |
-     3 | Marli |
-     4 | Matheus |
-     5 | Thiago |
-     6 | Willian |
-     7 | Débora |
+   | NUM | NOME  |
+| ------- | -------- |
+| 01  | Marli    |
+| 02  | Cláudio |
+| 03 | Matheus |
+| 04 | Willian |
+| 05 | Thiago |
+| 06 | Bruno |
+| 07 | Débora |
 
   Esses são os sete integrantes da equipe permanente nº 02.
 
@@ -148,8 +148,8 @@
  - E informe o usuário.
  __Resoluções:__ \
  [Exercício 01](exercicios%5Cexercicio%20portugol%5Cex01.portugol) \
- [Exercício 01v02](exercicios%5Cexercicio%20portugol%5Cex01v02.portugol)[Exercício 03](exercicios%5Cexercicio%20portugol%5Cex03.portugol)\
-  \
+ [Exercício 01v02](exercicios%5Cexercicio%20portugol%5Cex01v02.portugol) \
+ [Exercício 03](exercicios%5Cexercicio%20portugol%5Cex03.portugol)\
  [Exercício 02](exercicios%5Cexercicio%20portugol%5Cex02.portugol)
 
  # Aula 10.05.22
@@ -274,13 +274,48 @@
  Aula de inglês.
 
 # Aula 25.05.22
- Exercícios em grupo.
+ __Exercícios php em grupo.__ \
+ [ephp_011.php](exercicios%5Cexphp%5Cephp_011.php) \
+ [ephp_012.php](exercicios%5Cexphp%5Cephp_012.php) \
+ [ephp_013.php](exercicios%5Cexphp%5Cephp_013.php) \
+ [ephp_014.php](exercicios%5Cexphp%5Cephp_014.php) \
+ [ephp_015.php](exercicios%5Cexphp%5Cephp_015.php) \
+ [ephp_016.php](exercicios%5Cexphp%5Cephp_016.php) \
+ [ephp_017.php](exercicios%5Cexphp%5Cephp_017.php) \
+ [ephp_018.php](exercicios%5Cexphp%5Cephp_018.php) \
+ [ephp_019.php](exercicios%5Cexphp%5Cephp_019.php) \
+ [ephp_020.php](exercicios%5Cexphp%5Cephp_020.php) \
+ [ephp_022.php](exercicios%5Cexphp%5Cephp_022.php) \
+ [ephp_023.php](exercicios%5Cexphp%5Cephp_023.php) \
+ [ephp_024.php](exercicios%5Cexphp%5Cephp_024.php) \
+ [ephp_025.php](exercicios%5Cexphp%5Cephp_025.php) \
+ [ephp_026.php](exercicios%5Cexphp%5Cephp_026.php) 
 
- 
+ # Aula 26.06.22
+  Anotações: 
+
+     - $_SERVER = Variável global; 
+     - GET = Faz leitura da URL;
+     - POST = Faz leitura do formulário;
+     - isset = Verfica se uma variável foi definida e se é diferente de NULL.
+  Correção dos exercícios de ephp_001 a ephp_009.
+   
+# Aula 27.05.22
+ Correção dos exercícios de ephp_010 a ephp_011.
+ Explicação das funções GET e POST, como obter uma variável predefinida em php para o html.
+ Exercícios ephp_011 em duas versões.
+
+# Aula 30.05.22
+  Sprint review, revisão detalhada das funções GET e POST usando o exercício exphp_011, obtendo valores das variáveis proveniente do GET, POST e PHP. \
+  Exercícios detalhado: \
+ [ephp_011d.php](exercicios%5Cexphp%5Cephp_011d.php) \
+  Exercícios realizados:\
+ [ephp_011e.php](exercicios%5Cexphp%5Cephp_011e.php) \
+ [ephp_011f.php](exercicios%5Cexphp%5Cephp_011f.php)
 
  
  ♥️ 📖
-    ![](img%5CGit.png)
+    ![git](img%5CGit.png)
 
 # REFERÊNCIAS:
  **Sites:**\
@@ -288,4 +323,5 @@
  [Playlist das aulas](https://www.youtube.com/playlist?list=PL2WEynOui8TQxNqHE7IXrlirkVM7SDp9w) \
  [Formatação Markdown](https://markdown.net.br/sintaxe-basica/#headings-alternative-syntax) \
  [Branches](https://www.youtube.com/watch?v=xAOBQtSVI_k) \
- [Manual operadores PHP](php.net/manual/pt_BR/language.operators.logical.php)
+ [Manual operadores PHP](php.net/manual/pt_BR/language.operators.logical.php) \
+ [Site forms](https://www.w3schools.com/html/html_forms.asp)

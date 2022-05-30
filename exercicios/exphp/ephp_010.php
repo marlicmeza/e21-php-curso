@@ -4,7 +4,7 @@ mostre separadamente apenas o terceiro elemento desta lista. -->
 
 <?php
 $lista = array('Marylin', 'Paul', 'Pedrina', 'Saul', 'Josue');
-echo "$lista: ";
+echo $lista;
 echo "<br>";
 $result = count($lista);
 echo "O numero de elementos é:" . $result;
