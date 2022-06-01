@@ -305,6 +305,8 @@
  Explicação das funções GET e POST, como obter uma variável predefinida em php para o html.
  Exercícios ephp_011 em duas versões.
 
+ [ephp_011c.php](exercicios%5Cexphp%5Cephp_011c.php)
+
 # Aula 30.05.22
   Sprint review, revisão detalhada das funções GET e POST usando o exercício exphp_011, obtendo valores das variáveis proveniente do GET, POST e PHP. \
   Exercícios detalhado: \
@@ -313,9 +315,17 @@
  [ephp_011e.php](exercicios%5Cexphp%5Cephp_011e.php) \
  [ephp_011f.php](exercicios%5Cexphp%5Cephp_011f.php)
 
+# Aula 31.05.22
+ Pronomes possessivos, vestimentas, estações do ano e cores.
+
+# Aula 01.06.22
+
+ Corre
  
- ♥️ 📖
-    ![git](img%5CGit.png)
+ ♥️ 📖 
+ 
+
+ ![git](img%5CGit.png)
 
 # REFERÊNCIAS:
  **Sites:**\
@@ -324,4 +334,5 @@
  [Formatação Markdown](https://markdown.net.br/sintaxe-basica/#headings-alternative-syntax) \
  [Branches](https://www.youtube.com/watch?v=xAOBQtSVI_k) \
  [Manual operadores PHP](php.net/manual/pt_BR/language.operators.logical.php) \
- [Site forms](https://www.w3schools.com/html/html_forms.asp)
+ [Site forms](https://www.w3schools.com/html/html_forms.asp) \
+ [Markdown sintaxe estendida](https://markdown.net.br/sintaxe-estendida/)

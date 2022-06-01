@@ -68,14 +68,14 @@ if ($n1 <= $val) {
 
 //Versão V: Verifique se os valores de num1 e de num2 são iguais ou menores que 100.
 
-if ($n1 & $n2 <= $val) {
+if ($n1 && $n2 <= $val) {
     echo 'Número1 e número2 é menor ou igual a 100.'; echo "<br><BR>";   
     } 
     
 
 // Versão VI: Verifique se os valores de num1 ou de num2 são iguais ou maiores que 100.
 
-if ($n1 & $n2 >= $val) {
+if ($n1 && $n2 >= $val) {
     echo 'Número1 e número2 é maior ou igual a 100.'; echo "<br><BR>";   
     } 
     
@@ -105,7 +105,7 @@ if($n1 % 2 == 0) {
 ?>
 
 <?php
-// Versão VII: Verifique se o valor de num1 consta nos elementos de lista1 Sendo num1=100 e lista1= [10,100,1000,10000,100000].
+// Versão VII: USAR IN Verifique se o valor de num1 consta nos elementos de lista1 Sendo num1=100 e lista1= [10,100,1000,10000,100000].
 
 $con = 100;
 $lista1 = array("10","100","1000","10000","100000");
