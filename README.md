@@ -308,7 +308,7 @@
  [ephp_011c.php](exercicios%5Cexphp%5Cephp_011c.php)
 
 # Aula 30.05.22
-  Sprint review, revisão detalhada das funções GET e POST usando o exercício exphp_011, obtendo valores das variáveis proveniente do GET, POST e PHP. \
+  Sprint review, revisão detalhada das funções GET e POST usando o exercício exphp_011, obtendo valores das variáveis proveniente do GET, POST e PHP. Correção dos exphp_012 a exphp_014.php. \
   Exercícios detalhado: \
  [ephp_011d.php](exercicios%5Cexphp%5Cephp_011d.php) \
   Exercícios realizados:\
@@ -320,8 +320,15 @@
 
 # Aula 01.06.22
 
- Corre
+ Correção dos exphp_015, versões I, II, III, IV, V, VI, VII e VIII.
+ Versão index com scandir path aplicado no diretório para ordenação dos arquivos e junto trabalhado comandos CSS em html e php e arquivo check box. \
+ [checkbox](exercicios%5Cexphp%5Ccheckbox.php)\
+ [php_htmal_css](exercicios%5Cexphp%5Cindext.php)
  
+# Aula 02.06.22
+ Daily scrum, sprint review, aula com videos gravados de forma simultanea e disponilizados em readme e com exercicios.
+
+ [Playlsit videos](https://github.com/Machado-tec/e2122-php-geral/blob/main/php-video-aulas/aula_001.0.0.md) \
  ♥️ 📖 
  
 
