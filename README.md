@@ -329,6 +329,15 @@
  Daily scrum, sprint review, aula com videos gravados de forma simultanea e disponilizados em readme e com exercicios.
 
  [Playlsit videos](https://github.com/Machado-tec/e2122-php-geral/blob/main/php-video-aulas/aula_001.0.0.md) \
+
+# Aula 03.06.22
+ Daily scrum, sprint review, continuação de aula com videos gravados e resolução de exercícios propostos com base nos temas do vídeos.
+
+# Aula 06.06.22
+ Resolução de exercícios de ephp_017 a ephp_027 com exercícios propostos em sala baseados em conteúdos de functions.
+
+# Aula 07.06.22
+ Aula inglês, teste de conhecimento, horas e presente contínuo.
  ♥️ 📖 
  
 

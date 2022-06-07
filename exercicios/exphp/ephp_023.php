@@ -5,6 +5,12 @@
    echo date('h:i:s') . "<br>";
    sleep(20);
    echo date('h:i:s') . "<br>";
-   
+
+   for ($x=0;$x=20;$x++) {
+    echo $x;
+    sleep(1);
+    }
 ?>
+
+
 

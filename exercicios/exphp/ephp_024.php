@@ -3,8 +3,8 @@
 exiba em tela quantos números impares foram encontrados nesse intervalo, assim como a soma dos mesmos: -->
 
 <?php
-$ni=null;
-$so=null;
+$ni=0; // utilizar o null pode causar um bug dependendo do uso.
+$so=0;
 for ($va = 1; $va <=100; $va++){
     if ($va %2 == 1){
     echo "$va <br>";
