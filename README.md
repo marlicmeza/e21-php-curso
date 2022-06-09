@@ -319,7 +319,6 @@
  Pronomes possessivos, vestimentas, estações do ano e cores.
 
 # Aula 01.06.22
-
  Correção dos exphp_015, versões I, II, III, IV, V, VI, VII e VIII.
  Versão index com scandir path aplicado no diretório para ordenação dos arquivos e junto trabalhado comandos CSS em html e php e arquivo check box. \
  [checkbox](exercicios%5Cexphp%5Ccheckbox.php)\
@@ -338,9 +337,19 @@
 
 # Aula 07.06.22
  Aula inglês, teste de conhecimento, horas e presente contínuo.
+
+# Aula 08.06.22
+ Exercícios em grupo ephp_028; 
+ Crie um cadastro de Pessoas com 5 pessoas utilizando Array. 
+ Cada pessoa deve ter os seguintes valores cadastrados: 
+ Nome, idade, Cep. A Chave primeria da Array será o numero 1,2,3,4,5.
+
+# Aula 09.06.22
+ Detalhamento sobre arrays e exercícios em grupos sobre arrays e array dentro de outra array.
+ [arrays](exercicios%5Cexphp%5Carrays.php)\
+
  ♥️ 📖 
  
-
  ![git](img%5CGit.png)
 
 # REFERÊNCIAS:
