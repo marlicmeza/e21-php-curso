@@ -346,7 +346,14 @@
 
 # Aula 09.06.22
  Detalhamento sobre arrays e exercícios em grupos sobre arrays e array dentro de outra array.
- [arrays](exercicios%5Cexphp%5Carrays.php)\
+ Primeiro feedback do professor relacionado ao dossiê. \
+ *Exercício:*\
+ [arrays](exercicios%5Cexphp%5Carrays.php)
+
+# Aula 10.06.22
+ Continuaçao ephp_28 e ephp_29 em grupo e aplicação da função
+ ***SESSION_START***, que cria uma sessão ou resume a sessão atual baseado em um id de sessão passado via GET ou POST, ou passado via cookie.
+ Quando session_start() é chamada ou quando uma sessão inicia automaticamente, o PHP chamará os manipuladores open e read. Eles serão manipuladores de gravação internos (built-in) fornecidos por padrão ou por extensões do PHP (como SQLite ou Memcached); ou podem ser manipuladores personalizados definidos por session_set_save_handler(). 
 
  ♥️ 📖 
  

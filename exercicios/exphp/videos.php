@@ -135,7 +135,7 @@ while ($a <=5){
 <?php
 $a = 5;
 while ($a <=5){
-    require_once 'tools.php'; # gera MORTE do script . ...se não encontrar o arquivo
+    require_once 'tools.php';
     echo "<BR> Quadrado de 4 é:" . quadrado($a);
     $a++; 
 }

@@ -1,5 +1,4 @@
 <?php
-$frutas = ["Banana", "uva", "laranja"];
-array_push($frutas, "Morango");
-print_r($frutas);
+    require_once 'array.tootls.php';
+    echo "Arrays lida " . arrayc();
 ?>

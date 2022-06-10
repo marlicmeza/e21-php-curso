@@ -39,6 +39,7 @@ foreach ($carro as $compras){
     }
                 
     }
+}
 
 ?>
 
