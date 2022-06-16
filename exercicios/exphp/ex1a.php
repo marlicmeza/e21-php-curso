@@ -2,8 +2,8 @@
 session_start();
 if(!isset($_SESSION["required"])){
     $_SESSION['required'] = true;
-    require_once('ephp_028.php');
-    $_SESSION['cadastro'] = $dados;
+    require_once('ex1b.php');
+    $_SESSION['cadastro'] = $cadastro;
 }
 ?>
 

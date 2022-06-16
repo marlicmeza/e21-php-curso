@@ -355,6 +355,14 @@
  ***SESSION_START***, que cria uma sessão ou resume a sessão atual baseado em um id de sessão passado via GET ou POST, ou passado via cookie.
  Quando session_start() é chamada ou quando uma sessão inicia automaticamente, o PHP chamará os manipuladores open e read. Eles serão manipuladores de gravação internos (built-in) fornecidos por padrão ou por extensões do PHP (como SQLite ou Memcached); ou podem ser manipuladores personalizados definidos por session_set_save_handler(). 
 
+# Aula 13.06.22
+
+ Resolução e explicação dos Exercícios ephp_028 e ephp_28 e ephp_29, utilizando array_push, $_SESSION e require_once.
+ Indicação do href para solução do próximo exercício.
+
+# Aula 14.06.22
+ Revisão de horas e presente continuo, presente simples com Do e Does, in, at, on  e membros da familia.
+
  ♥️ 📖 
  
  ![git](img%5CGit.png)

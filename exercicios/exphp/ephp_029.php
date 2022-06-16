@@ -1,11 +1,8 @@
 <?php
 session_start();
-if(!isset($_SESSION["required"])){
-    $_SESSION['required'] = true;
-    require_once('ephp_028.php');
-    $_SESSION['cadastro'] = $cadastro;
-}
+require_once('ephp_028.php');  
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -15,26 +12,24 @@ if(!isset($_SESSION["required"])){
     <title>ephp_029</title>
     </head>
     <body>
-        <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" >
+        <form method="post">
              Digite nome: <input type="text" name="nome" required>
              Digite idade: <input type="number" name="idade" required>
              Digite cep: <input type="number" name="cep" required>
-             <input type="submit"> 
+             <input type="submit" name="cadastro" value="cadastro">
         </form>
-    </body>
-    <?php 
-$nome = $_POST['nome'];
-$idade = $_POST['idade'];
-$cep = $_POST['cep'];
-
-    if ($_SERVER['REQUEST_METHOD'] == 'post') {
-        $nome = $_POST['nome'];
-        $idade = $_POST['idade'];    
-        $cep = $_POST['cep'];
-        $array = array_merge($nome, $idade, $cep);
-        array_push($erro, "Erro 1");
-        
-        echo $array;
+    
+<?php 
+echo "<br><br>";
+if (isset($_POST['cadastro'])) { 
+    array_push($_SESSION['dadosarray'], array("nome" => $_POST['nome'], "idade" => $_POST['idade'], "cep" => $_POST['cep']) 
+    ); 
+} 
+    foreach ($_SESSION['dadosarray'] as $a){         
+        echo "Nome: ".$a['nome']. "<br />idade: ".$a['idade']."<br />cep: ".$a['cep']."<br /><br />"; 
     }
-?>
+    
+    
+?>  
+</body>
 </html>

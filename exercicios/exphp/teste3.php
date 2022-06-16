@@ -1,7 +1,3 @@
-<!-- Crie um cadastro de Pessoas com 5 pessoas utilizando Array. 
-Cada pessoa deve ter os seguintes valores cadastrados: 
-Nome, idade, Cep. A Chave primeria da Array será o numero 1,2,3,4,5. -->
-
 <?php
 $dadosarray = array(
    "1" => array ('nome' => 'Sol', 'idade' => 20, 'cep' => 88390-000, "<br>"),
@@ -12,8 +8,5 @@ $dadosarray = array(
 );
     if (!$_SESSION['dadosarray']){
     $_SESSION['dadosarray'] = $dadosarray;
-    }
+    }    
 ?>
-
-
-
