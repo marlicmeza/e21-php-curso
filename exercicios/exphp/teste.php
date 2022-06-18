@@ -1,44 +1,44 @@
-<!-- Solicite os valores de num1 e num2. Some os valores das variaveis num1 e num2: sendo num1=52 e num2 = 106. por fim exiba o resultado. -->
-<!-- Faça com que o valor padrão (ou default) do form seja informado proveniente de uma variavel PHP -->
-<!-- Plus: faça com que os valores de num1 e num2 sejam provenientes de uma lista de argumentos -->
-
-<!-- e011b.php -->
-<!-- Exemplo do Icaro. -->
-
-<html>
-<title>Exercicio 11</title>
 <?php
-$num1 = 52;
-$num2 = 106;
+// session_start();
+// require_once('teste3.php');  
 ?>
 
-<body>
-<form method="">
-     Número1: <input type="number" name="input_user1" step="any" value="<?php echo $num1; ?>">
-     Número2: <input type="number" name="input_user2" step="any" value="<?php echo $num2; ?>">
-     <input type="submit">
-    
-  </form>
-</body>
-    <?php
-    $num1 = 52;
-    $num2 = 106;
-    if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-        if (empty($_POST['input_user1']) || empty($_POST['input_user2'])) {
-            $num1 = $_POST['input_user1'];
-            $num2 = $_POST['input_user2'];
-        }
-        $resultado = $num1 + $num2;
-        echo '<br> A soma de número1 e número1 é:' . $resultado;
-    }
-    ?>
-  
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ephp_029</title>
+    </head>
+    <body>
+        <form method="post">
+             Digite nome: <input type="text" name="nome" required>
+             Digite idade: <input type="number" name="idade" required>
+             Digite cep: <input type="number" name="cep" required>
+             <input type="submit" name="cadastro" value="cadastro">
+             <input type="button" name="alterar" value="Alterar Cadastro">
+             <input type="button" name="exlcuir" value="Excluir Cadastro">
+             <input type="button" name="restaurar" value="Restaurar">
 
-</html>
-<?php if ($_SERVER['REQUEST_METHOD'] == 'GET') {
-    $num1 = $_GET['input_user1'];
-    $num2 = $_GET['input_user2'];
-}
-    $resultado = $num1 + $num2;
-    echo 'O valor da soma de número1 e número2 é:' . $resultado;
+
+        </form>
+        <?php
+        session_start();
+        require_once('ephp_029.php');
+
+        if (!$_SESSION["dadosarray"])
+            $_SESSION['dadosarray'] = $dadosarray;
+
+        if (isset($_POST['delete']))
+            unset($_SESSION['dadosarray'][$_POST['excluir']]); // Deletes an array position
+
+        foreach ($_SESSION['dadosarray'] as $key => $value)
+        {
+            echo "$key: <br>";
+            foreach ($value as $val)
+                echo "$val <br>";
+            echo "<br>";
+        }
     ?>
+</html>

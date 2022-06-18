@@ -363,6 +363,9 @@
 # Aula 14.06.22
  Revisão de horas e presente continuo, presente simples com Do e Does, in, at, on  e membros da familia.
 
+# Aula 15.06.22
+ Exercícios em grupo, ephp_031, excluir dados da array.
+ 
  ♥️ 📖 
  
  ![git](img%5CGit.png)
