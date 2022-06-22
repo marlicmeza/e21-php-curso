@@ -42,9 +42,18 @@ if (isset($_POST['cadastro'])) {
 if (isset($_POST['restaurar'])) {
     $_SESSION['dadosarray'] = $dadosarray;
 }
-    foreach ($_SESSION['dadosarray'] as $a => $key){         
-        echo "Nome: ".$key['nome']. "<br />idade: ".$key['idade']."<br />cep: ".$key['cep']. 
-        "<a href=alterar.php?ID=" . $a ."> alterar </a>";
+    foreach ($_SESSION['dadosarray'] as $alt => $chave){ 
+        echo "<tr>";
+        echo "<td>" . $chave['nome'] . "</td>", "<br>";
+        echo "<td>" . $chave['idade'] . "</td>", "<br>";
+        echo "<td>" . $chave['cep'] . "</td>", "<br><br>";
+        echo "<td>";
+        echo "<a href=excluir.php?Delete=" . $alt . "&nome=" . urlencode($chave['nome']) . ">   Excluir  </a>",  "<br>";
+        echo "</td>";
+        echo "<td>";
+        echo "<a href=alterar.php?ID=" . $alt . ">   Alterar  </a>",  "<br>";
+        echo "</td>";
+        echo "</tr>";
         // <form method='post'><input type='submit' name='alterar' 
         // value='Alterar' ><a/></form>" . "<br /><br />"; 
     }

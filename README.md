@@ -361,10 +361,35 @@
  Indicação do href para solução do próximo exercício.
 
 # Aula 14.06.22
- Revisão de horas e presente continuo, presente simples com Do e Does, in, at, on  e membros da familia.
+ Revisão de horas e presente contínuo, presente simples com Do e Does, in, at, on  e membros da familia.
 
 # Aula 15.06.22
  Exercícios em grupo, ephp_031, excluir dados da array.
+
+# Aula 20.06.22
+ Correçao ephp_028 a ephp_031 baseado no exemplo do Sebastião e continuação em gurpo para refazer o exercício  com alterações conforme solicitados pelo professor.
+
+# Aula 21.06.22
+ Aula inglês.
+
+# Aula 22.06.22
+ Continuação dos exercícios em grupo, alterar, excluir.
+ 
+
+
+ *_LEMBRETES:_*
+ - Férias a confirmar 20.07 a 29.07;
+ - Dossiês serão entregues as empresas âncoras em 01.08 e atualizados para as empresas em 05.09;
+ - 10.08 Olimpiadas de programação ENTRA 21;
+ - 10.08 Ciclo de palestras a noite;
+ - CURSO;
+ - Fase 1: Programação;
+ - Fase 2: Banco de dados;
+ - Fase 3: FrameWorks;
+ - Fase 4: Projeto (TCC);
+ - Comitar um algoritmo no repositório público;
+ - 17 a 21.10 Finalização do Curso.
+ 
  
  ♥️ 📖 
  
