@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once 'base.php';
+require_once 'teste.php';
 $alteracao  = $_SESSION['dadosarray'][$_GET['ID']];
 ?>
 <!DOCTYPE html>

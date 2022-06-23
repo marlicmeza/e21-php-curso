@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once 'base.php';
+require_once 'index.php';
 $alteracao  = $_SESSION['dadosarray'][$_GET['ID']];
 ?>
 <!DOCTYPE html>
@@ -37,7 +37,7 @@ $alteracao  = $_SESSION['dadosarray'][$_GET['ID']];
             $_SESSION['dadosarray'][$_GET['ID']]['idade'] = $idade;
             $_SESSION['dadosarray'][$_GET['ID']]['cep'] = $cep;
 
-            header("refresh: 2 ;base.php");
+            header("refresh: 2 ;index.php");
     }
 ?>
 </body>

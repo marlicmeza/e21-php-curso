@@ -14,5 +14,5 @@ if ($_GET['nome']) {
      }
      echo "<br>" . "Retornando em $tt segundos ..."; 
 }
-header("refresh: $tt ; base.php");
+header("refresh: $tt ; index.php");
 ?>
