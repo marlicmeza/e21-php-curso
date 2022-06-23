@@ -1,6 +1,7 @@
 <?php
 session_start();
 require_once 'dados.php';
+$tt=2;
 if ($_GET['nome']) {  
      var_dump($_GET['nome']);     
      echo "Apagando " . $_GET['nome'] . "<br>";
@@ -13,5 +14,5 @@ if ($_GET['nome']) {
      }
      echo "<br>" . "Retornando em $tt segundos ..."; 
 }
-header("refresh: 2 ; base.php");
+header("refresh: $tt ; teste.php");
 ?>

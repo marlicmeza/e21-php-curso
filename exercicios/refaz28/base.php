@@ -7,37 +7,53 @@ require_once('dados.php');
 <html lang="en">
     <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="./formato.css">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./formatao.css"> 
+    <link rel="stylesheet" href="./formato.css"> 
     <title>BASE</title>
         </head>
             <body>
+                <h1>TELA DE CADASTRO E ALTERAÇÃO</H1>
+                <br>
                 <form method="post">
                      <fieldset>
-                        <legend>CADASTRO</legend>
+                        <legend>CADASTRAR</legend>
                         <label>Nome : </label>
                         Digite nome: <input type="text" name="nome" placeholder="Digite o nome:">
                         <label>Idade </label>
                         Digite idade: <input type="number" name="idade" placeholder="Digite a idade:">
                         <label>Cep </label>
                         Digite cep: <input type="number" name="cep" placeholder="Digite o cep:">
+                        <br>
                         <button input type="submit" name="enviar"> Cadastrar </button>
                         <button input type="submit" name="restaurar"> Restaurar dados </button>
                     </fieldset>
                 </form>
                     <table>
                     <tr id="titulo">
+                    </tr>                     
+                    <tr id="titulo">
                     <td>Nome</td>
-                    <td>Idade</td> 
-                    <td colspan="2">Cep</td>
-                    </tr> 
+                    <td>Idade</td>
+                    <td>Cep</td>
+                    <td>Excluir</td>
+                    <td>Alterar</td>
+                    </tr>
     
 <?php 
 echo "<br><br>";
-if (isset($_POST['cadastro'])) { 
-    array_push($_SESSION['dadosarray'], array("nome" => $_POST['nome'], "idade" => $_POST['idade'], "cep" => $_POST['cep']) 
-    ); 
+if (isset($_POST['enviar'])) {
+    $nome = $_POST['nome'];
+    $idade = $_POST['idade'];
+    $cep = $_POST['cep'];
+
+    $cadnovo= array(
+        "nome" => $nome,
+        "idade" => $idade,
+        "cep" => $cep
+    );
+    array_push($_SESSION['dadosarray'], $cadnovo);
 } 
 if (isset($_POST['restaurar'])) {
     $_SESSION['dadosarray'] = $dadosarray;
@@ -48,14 +64,13 @@ if (isset($_POST['restaurar'])) {
         echo "<td>" . $chave['idade'] . "</td>", "<br>";
         echo "<td>" . $chave['cep'] . "</td>", "<br><br>";
         echo "<td>";
-        echo "<a href=excluir.php?Delete=" . $alt . "&nome=" . urlencode($chave['nome']) . ">   Excluir  </a>",  "<br>";
+        echo "<a href=excluir.php?remover=" . $alt . "&nome=" . urlencode($chave['nome']) . ">   Excluir  </a>";
         echo "</td>";
         echo "<td>";
-        echo "<a href=alterar.php?ID=" . $alt . ">   Alterar  </a>",  "<br>";
+        echo "<a href=alterar.php?ID=" . $alt . ">   Alterar  </a>";
         echo "</td>";
         echo "</tr>";
-        // <form method='post'><input type='submit' name='alterar' 
-        // value='Alterar' ><a/></form>" . "<br /><br />"; 
+       
     }
     
     
