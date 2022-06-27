@@ -7,7 +7,7 @@ if ($_GET['nome']) {
      echo "Apagando " . $_GET['nome'] . "<br>";
      $key = array_search($_GET['nome'],array_column($_SESSION['dadosarray'],'nome'));     
      var_dump($key);
-     if ($key) { 
+     if ($key >=0 ) { 
           array_splice($_SESSION['dadosarray'],($key), 1);
      } else {
           echo "não achou para excluir:" . "<br>";
