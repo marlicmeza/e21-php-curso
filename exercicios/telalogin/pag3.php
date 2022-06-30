@@ -1,7 +1,9 @@
 <?php
 require_once 'cadastro.php';
 
-Echo "BEM VINDO A PAGINA 3";
+Echo "VOCÊ CHEGOU AO FIM. <br>";
+echo "E SERÁ REDIRECIONADO A PAGINA INICIAL";
+
 
 
 header("refresh: $tt; login.php");

@@ -379,15 +379,24 @@
   Continuação exercícios  em grupo, professor nas salas verificando individual e explicando para o grupo, ao final retornou para sala e demonstrou a pratica no exemplo da Adriana, ficou uma parte a finalizar na aula seguinte.
 
 # Aula 24.06.22
- O professor continou com os exercícios, fomos direcinado para o grupo para aqueles que ainda nao tinha finalizado terminar, na volta do intervalo foi demonstrado como usar fundos com links do yputube e tambem deixado um exemplo de codigo no mural como FUNDOSOBS, e como tarefa adicionar mais tres links, testar e incrementar css.
+ O professor continou com os exercícios, fomos direcinado para o grupo para aqueles que ainda nao tinha finalizado terminar, na volta do intervalo foi demonstrado como usar fundos com links do yputube e também deixado um exemplo de código no mural como FUNDOSOBS, e como tarefa adicionar mais três links, testar e incrementar css.
  [Ex fundosobs](exercicios/fundosobs)\
 
 # Aula 27.06.22
- Fazer cadastro no site www.maxado.com.br e inserir foto, demonstraçao como usar GIT RESET, GIT STATUS, GIT RESTORE.
- Usar git config--global user.name "nome completo : Para corrigir nome em reposiotio especifico,
+ Fazer cadastro no site www.maxado.com.br e inserir foto, demonstração como usar GIT RESET, GIT STATUS, GIT RESTORE.
+ Usar git config--global user.name "nome completo : Para corrigir nome em repositório especifico,
  Usar git config--global user.email "email" : Para corrigir nome em reposiotio especifico.
  Exercicios com login e senha.
  [Pasta exercicio](exercicios/telalogin)\
+
+# Aula 28.06.22
+ Aula inglês.
+
+# Aula 29.06.22
+ Aulas gravadas no site maxado, Banco de Dados, tipos de BD, tipos de dados, chave primaria (PK), chave secundária (FK), relacionamento entre tabelas, e exercício a ser enviado no site.
+
+# Aula 30.06.22
+ Continuação do exercício de Banco de Dados em grupo e entrega do ex 028 a 034, enviar link no site maxado conforme orientação do professor.
 
 
 

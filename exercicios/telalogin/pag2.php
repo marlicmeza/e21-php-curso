@@ -1,7 +1,7 @@
 <?php
 session_start();
 require_once('cadastro.php'); 
-echo "Ola, Bem vindo!" . $user;
+echo "Ola, Bem vindo! " . $user;
 ?>
  
 
@@ -20,7 +20,7 @@ echo "Ola, Bem vindo!" . $user;
                 <br>
                 <form method="post">
                      <fieldset>
-                        <legend>CADASTRAR</legend>
+                        <legend>FRASE</legend>
                         Digite uma frase: <input type="text" name="frase" required placeholder="Digite uma frase:">                        
                         <button input type="submit" name="enviar"> Enviar </button>
                      </fieldset>
@@ -33,7 +33,7 @@ if (isset($_POST['enviar'])) {
     $frase = $_POST['frase'];
     echo "A frase digitada foi:" .$frase; 
     echo "<br>";
-    echo "Voce sera direcionado" .$tt;  
+    echo "PARABÉNS VOCÊ REDIRECIONADO A PAGINA3." .$tt;  
 
     header("refresh: $tt ;pag3.php");
 } 

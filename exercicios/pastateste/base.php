@@ -20,11 +20,13 @@ require_once('dados.php');
                     <fieldset>
                         <legend>CADASTRAR</legend>
                         <label>Nome : </label>
-                        Digite nome: <input type="text" name="nome" required placeholder="Digite o nome:">
+                        Digite nome: <input type="text" name="nome"  placeholder="Digite o nome:">
                         <label>Idade </label>
                         Digite idade: <input type="number" name="idade"  placeholder="Digite a idade:">
                         <label>Cep </label>
                         Digite cep: <input type="number" name="cep"  placeholder="Digite o cep:">
+                        <label>Saldo </label>
+                        Digite saldo: <input type="number" name="saldo"  placeholder="Digite o saldo R$:">
                         <br>
                         <button input type="submit" name="enviar"> Cadastrar </button>
                         <button input type="submit" name="restaurar">  Restaurar dados </button>                        
@@ -37,6 +39,7 @@ require_once('dados.php');
                     <td>Nome</td>
                     <td>Idade</td>
                     <td>Cep</td>
+                    <td>Saldo</td>                    
                     <td>Excluir</td>
                     <td>Alterar</td>
                     </tr>    
@@ -46,34 +49,25 @@ if (isset($_POST['enviar'])) {
     $nome = $_POST['nome'];
     $idade = $_POST['idade'];
     $cep = $_POST['cep'];
+    $saldo = $_POST['saldo'];
 
     $cadnovo= array(
         "nome" => $nome,
         "idade" => $idade,
-        "cep" => $cep
+        "cep" => $cep,
+        "saldo" => $saldo
     );
     array_push($_SESSION['dadosarray'], $cadnovo);
 } 
 if (isset($_POST['restaurar'])) {
     $_SESSION['dadosarray'] = $dadosarray;
 }
-    foreach ($_SESSION['dadosarray'] as $alt => $chave){ 
-        echo "<tr>";
-        echo "<td>" . $chave['nome'] . "</td>", "<br>";
-        echo "<td>" . $chave['idade'] . "</td>", "<br>";
-        echo "<td>" . $chave['cep'] . "</td>", "<br><br>";
-        echo "<td>";
-        echo "<a href=excluirteste.php?remover=" . $alt . "&nome=" . urlencode($chave['nome']) . ">   Excluir  </a>";
-        echo "</td>";
-        echo "<td>";
-        echo "<a href=alterarteste.php?ID=" . $alt . ">   Alterar  </a>";
-        echo "</td>";
-        echo "</tr>";
-       
-    }
-    
-    
-?>  
+require_once "imprimir.php";
+
+?>
+
 </table>
-</body>
+<?php
+require_once "rodape.php";
+?>
 </html>

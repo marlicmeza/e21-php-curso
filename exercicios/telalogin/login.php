@@ -38,7 +38,7 @@ $senha=($_POST['senha']);
     }
     else{
         echo "Usuario ou senha incorreto! <br>";
-        echo "Tente novamente.";
+        echo "Digite novamente.";
         header("refresh: $tt ;login.php");
     }
 }   

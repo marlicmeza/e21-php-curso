@@ -24,16 +24,22 @@ $cadastro  = array(
     "5" => array(
         "titulo" => 'Balneario Orla',
         "url" => 'https://www.youtube.com/embed/8KGXSjtS5pk',
-        "frame" => "<div><iframe width='560' height='315' src='https://www.youtube.com/embed/cfgrm8lDH8U' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"                         
-    )
+        "frame" => "<div><iframe width='560' height='315' src='https://www.youtube.com/embed/cfgrm8lDH8U' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"  
+                                   
+        ),
+     "5" => array(
+        "titulo" => 'Balneario Orla',
+        "url" => 'https://www.youtube.com/embed/8KGXSjtS5pk',
+        "frame" => "<div><iframe width='560' height='315' src='https://www.youtube.com/embed/cfgrm8lDH8U' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"  
+        ),
 
+     "6" => array(
+        "titulo" => 'Corcovado',
+        "url" => 'https://www.youtube.com/watch?v=lzVKpb6xotY',
+        "frame" => "<div><iframe width='560' height='315' src='https://www.youtube.com/watch?v=lzVKpb6xotY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"  
 
-
-    
-
-
-
-);
+        ),
+    );
 
 
 if (!$_SESSION['cadastro']) {
