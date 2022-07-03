@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once 'base.php';
+require_once ('base.php');
 $alteracao  = $_SESSION['dadosarray'][$_GET['ID']];
 ?>
 <!DOCTYPE html>
@@ -23,6 +23,8 @@ $alteracao  = $_SESSION['dadosarray'][$_GET['ID']];
                 <input type="number" name="idade" value="<?php echo$alteracao['idade'];?>">
                 <label>Cep :</label>
                 <input type="text" name="cep" value="<?php echo$alteracao['cep'];?>">
+                <label>Saldo :</label>
+                <input type="text" name="saldo" value="<?php echo$alteracao['saldo'];?>">
                 <br><br>
                 <button type="submit" name="alterar"> Alterar </button>
         </fieldset>
@@ -32,13 +34,19 @@ $alteracao  = $_SESSION['dadosarray'][$_GET['ID']];
             $nome=$_POST['nome'];
             $idade=$_POST['idade'];
             $cep=$_POST['cep'];
+            $saldo=$_POST['saldo']; 
 
             $_SESSION['dadosarray'][$_GET['ID']]['nome'] = $nome;
             $_SESSION['dadosarray'][$_GET['ID']]['idade'] = $idade;
             $_SESSION['dadosarray'][$_GET['ID']]['cep'] = $cep;
+            $_SESSION['dadosarray'][$_GET['ID']]['saldo'] = $saldo;
+            
 
-            header("refresh: 2 ;base.php");
+            
     }
-?>z
+   
+    header("refresh: 2 ;base.php");
+?>
+
 </body>
 </html>

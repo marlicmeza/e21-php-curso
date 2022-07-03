@@ -1,6 +1,7 @@
 <?php
 session_start();
-require_once('dados.php');  
+require_once 'dados.php';
+// require_once 'calc.php'; 
 ?>
 
 <!DOCTYPE html>
@@ -25,6 +26,8 @@ require_once('dados.php');
                         Digite idade: <input type="number" name="idade" placeholder="Digite a idade:">
                         <label>Cep </label>
                         Digite cep: <input type="number" name="cep" placeholder="Digite o cep:">
+                        <label>Saldo </label>
+                        Digite saldo: <input type="number" name="saldo" placeholder="Digite o saldo:">
                         <br>
                         <button input type="submit" name="enviar"> Cadastrar </button>
                         <button input type="submit" name="restaurar"> Restaurar dados </button>
@@ -37,6 +40,7 @@ require_once('dados.php');
                     <td>Nome</td>
                     <td>Idade</td>
                     <td>Cep</td>
+                    <td>Saldo</td>
                     <td>Excluir</td>
                     <td>Alterar</td>
                     </tr>
@@ -47,34 +51,46 @@ if (isset($_POST['enviar'])) {
     $nome = $_POST['nome'];
     $idade = $_POST['idade'];
     $cep = $_POST['cep'];
+    $saldo = $_POST['saldo'];
 
     $cadnovo= array(
         "nome" => $nome,
         "idade" => $idade,
-        "cep" => $cep
+        "cep" => $cep,
+        "saldo" => $saldo
     );
     array_push($_SESSION['dadosarray'], $cadnovo);
 } 
 if (isset($_POST['restaurar'])) {
     $_SESSION['dadosarray'] = $dadosarray;
 }
-    foreach ($_SESSION['dadosarray'] as $alt => $chave){ 
-        echo "<tr>";
-        echo "<td>" . $chave['nome'] . "</td>", "<br>";
-        echo "<td>" . $chave['idade'] . "</td>", "<br>";
-        echo "<td>" . $chave['cep'] . "</td>", "<br><br>";
-        echo "<td>";
-        echo "<a href=excluir.php?remover=" . $alt . "&nome=" . urlencode($chave['nome']) . ">   Excluir  </a>";
-        echo "</td>";
-        echo "<td>";
-        echo "<a href=alterar.php?ID=" . $alt . ">   Alterar  </a>";
-        echo "</td>";
-        echo "</tr>";
-       
-    }
+   require_once('imprimir.php');
+
+   $saldo_total = 0;
+   $total_dados = count($_SESSION['dadosarray']);
+   $total_idade = 0;
+   foreach ($_SESSION['dadosarray'] as $cadastro){
+       $saldo_total += $cadastro['saldo'];
+       $total_idade += $cadastro['idade'];
+       }
+   $media_idade = ($total_idade / $total_dados); 
+
+?>
+   
     
-    
+  
 ?>  
 </table>
 </body>
+<footer>
+    <h3>Total de dados = <?php echo $total_dados;?></h3>
+    <h3>Total em carteira = <?php echo "R$: " .$saldo_total;?></h3>
+    <h3>Média de idade = <?php echo $media_idade;?></h3>
+    <div>
+        <line>---</line>
+        <p> by Marli Meza</p>
+        <line>---</line>
+    </div>
+</footer>
 </html>
+

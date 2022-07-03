@@ -43,7 +43,7 @@ $alteracao  = $_SESSION['dadosarray'][$_GET['ID']];
             $_SESSION['dadosarray'][$_GET['ID']]['saldo'] = $saldo;
             
 
-            // header("refresh: 2; base.php");
+            header("refresh: 2; base.php");
     }
 ?>
 </body>
