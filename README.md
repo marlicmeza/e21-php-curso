@@ -398,6 +398,12 @@
 # Aula 30.06.22
  Continuação do exercício de Banco de Dados em grupo e entrega do ex 028 a 034, enviar link no site maxado conforme orientação do professor.
 
+# Aula 01.07.22
+ Aulas gravadas BD Módulo II em grupo e início do Segundo DER em grupo.
+
+# Aula 04.07.22
+ Continuação do Segundo DER, entrega do Segundo DER, e prova sobre os Módulos I e II.
+
 
 
 
