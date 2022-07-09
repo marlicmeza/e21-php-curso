@@ -404,6 +404,18 @@
 # Aula 04.07.22
  Continuação do Segundo DER, entrega do Segundo DER, e prova sobre os Módulos I e II.
 
+# Aula 05.07.22
+ Aula ingles, revisao unidade 07 e 08 e prova referente as unidades de 01 a 08.
+
+# Aula 06.07.22
+ Aulas gravadas, modulo3, banco de dados e sqlite3.
+
+# Aula 07.07.22
+ Empreendedorismo e inovação, Profº Valdecir Knuth.
+
+# Aula 08.07.22
+ Finalização do Módulo3 Banco de Dados e inicio das aulas Banco de Dados Módulo4, aulas gravadas, assistir com o grupo.
+
 
 
 
