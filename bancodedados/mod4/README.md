@@ -1,6 +1,14 @@
 Módulo 4
 
-# OPERADORES
+# Video - 033 - SELECT
+SELECT É USADO PARA SELECIONAR DADOS RESULT-SET ou CONJUNTO DE DADOS CRIAMOS O ARQUIVO CIDADES.SQL
+
+# Video - 034/035 - SELECT
+CRIAMOS O ARQUIVO MODULOS04.SQL com todos os registros necessrios.
+
+# Vídeo 036 - SELECT DISTINCT
+
+# OPERADORES DE COMPARAÇÃO
 1 = 1
 1 <> 2 ou 1 != 2
 1 < 2
@@ -67,4 +75,5 @@ PESSOAS,CIDADES
 WHERE PESSOAS.PESSOAS_CIDADE_ID = CIDADES.CIDADES_ID;
 
 
-
+COLUNAS Todas * Algumas, Limpeza de Repetições DISTINCT WHERE Condicionais Filtros de Comparação = e =! < e > Operadores Logicos IN
+LIKE AND OR BETWEEN Ordenar ORDER BY Funções AVG MIN MAX SUM COUNT Agrupamento GROUP BY Junção Where T1.id = T2.id

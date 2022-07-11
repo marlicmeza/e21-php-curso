@@ -408,13 +408,16 @@
  Aula ingles, revisao unidade 07 e 08 e prova referente as unidades de 01 a 08.
 
 # Aula 06.07.22
- Aulas gravadas, modulo3, banco de dados e sqlite3.
+ Aulas gravadas, Bando de Dados Módulo3 e sqlite3, instalação, configuração e teste.
 
 # Aula 07.07.22
  Empreendedorismo e inovação, Profº Valdecir Knuth.
 
 # Aula 08.07.22
  Finalização do Módulo3 Banco de Dados e inicio das aulas Banco de Dados Módulo4, aulas gravadas, assistir com o grupo.
+
+# Aula 11.07.22
+ Daily Scrum em sala, daily scrum em grupo, sprint review e continuação do Módulo4 Banco de dados em grupo.
 
 
 
