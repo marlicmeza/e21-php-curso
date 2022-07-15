@@ -419,6 +419,18 @@
 # Aula 11.07.22
  Daily Scrum em sala, daily scrum em grupo, sprint review e continuação do Módulo4 Banco de dados em grupo.
 
+# Aula 12.07.22
+ Aula ingles.
+
+# Aula 13.07.22
+ Termino das aulas gravadas modulo4 BD e incio do exercicio 200.
+
+# Aula 14.07.22
+ Aula contabilidade - Conceitos basicos.
+
+# Aula 15.07.22
+ Continuaçao exercicio 200 em grupo.
+
 
 
 
@@ -428,8 +440,9 @@
 
  *_LEMBRETES:_*
  - Férias a confirmar 20.07 a 29.07;
+ - 02 dias de reposiçao a ser definido;
  - Dossiês serão entregues as empresas âncoras em 01.08 e atualizados para as empresas em 05.09;
- - 10.08 Olimpiadas de programação ENTRA 21;
+ - 10.08 Olimpiadas de programação ENTRA 21; CANCELADA
  - 10.08 Ciclo de palestras a noite;
  - CURSO;
  - Fase 1: Programação;
