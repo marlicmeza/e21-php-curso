@@ -423,15 +423,19 @@
  Aula ingles.
 
 # Aula 13.07.22
- Termino das aulas gravadas modulo4 BD e incio do exercicio 200.
+ Término das aulas gravadas módulo4 BD e início do exercício 200.
 
 # Aula 14.07.22
- Aula contabilidade - Conceitos basicos.
+ Aula contabilidade - Conceitos básicos.
 
 # Aula 15.07.22
- Continuaçao exercicio 200 em grupo.
+ Continuação exercício 200 em grupo.
 
+# Aula 18.07.22
+ Daily scrum em sala, finalização do Módulo4 Banco de Dados com e entrega do exercício 200.
 
+# Aula 19.07.22
+ Aula inglês.
 
 
 
