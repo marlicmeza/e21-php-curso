@@ -469,7 +469,7 @@
  [Branches](https://www.youtube.com/watch?v=xAOBQtSVI_k) \
  [Manual operadores PHP](php.net/manual/pt_BR/language.operators.logical.php) \
  [Site forms](https://www.w3schools.com/html/html_forms.asp) \
- [Markdown sintaxe estendida](https://markdown.net.br/sintaxe-estendida/)
+ [Markdown sintaxe estendida](https://markdown.net.br/sintaxe-estendida/)\
 
  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
 
