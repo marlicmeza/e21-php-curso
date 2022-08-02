@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "teste",
+            "database": "${workspaceFolder:e21-php-curso}/bancodedados/mod4/modulo5.sqlite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "testes",
+            "database": "${workspaceFolder:e21-php-curso}/bancodedados/mod4/modulo4.sql"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
