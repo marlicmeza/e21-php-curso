@@ -526,7 +526,7 @@ __COMER PIZZA__
  - 02 dias de reposiçao a ser definido;
  - Dossiês serão entregues as empresas âncoras em 01.08 e atualizados para as empresas em 05.09;
  - 10.08 Olimpiadas de programação ENTRA 21; CANCELADA
- - 10.08 Ciclo de palestras a noite;
+ - 10.08 Ciclo de palestras a noite; site Sympla
  - CURSO;
  - Fase 1: Programação;
  - Fase 2: Banco de dados;
