@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Teste",
+            "database": "${workspaceFolder:e21php-curso}/e21-php-curso/bancodedados/mod4/modulo4.sql"
+        }
+    ]
+}
