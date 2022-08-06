@@ -438,17 +438,6 @@
  Aula inglês.
 
 # 20.07 a 31.07 FÉRIAS.
- 
-# Aula 01.08.22
- Daily scrum, continação com Banco de Dados, iniciando módulo5 pelo site maxado.com.br.
-
-# Aula 02.08.22
- Aula inglês, módulo 11.
-
-# Aula 03.08.22
- Continuação Banco de Dados, módulo5 em grupo. 
- Aviso João sobre ciclo de palestra dia 10.08, fazer inscrição pelo site do SYMPLA dia 09.08.
- 
 
 
  

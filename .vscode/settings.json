@@ -5,12 +5,7 @@
             "driver": "SQLite",
             "name": "teste",
             "database": "${workspaceFolder:e21-php-curso}/bancodedados/mod4/modulo4.sql"
-        },
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "name": "teste2",
-            "database": "${workspaceFolder:e21-php-curso}/bancodedados/mod5/database.sql"
+
         }
     ],
     "sqltools.useNodeRuntime": true
