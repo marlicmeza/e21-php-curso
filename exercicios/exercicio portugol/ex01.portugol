@@ -1,0 +1,19 @@
+programa
+{
+	funcao inicio()
+	{
+		inteiro a, b, mult
+		
+		escreva("Digite a altura do retângulo: ")
+		leia(a)
+
+		escreva("Digite o comprimento do retangulo: ")
+		leia(b)
+
+		mult = a * b 
+		
+		escreva("\nA area calculada do retangulo em metros é igual a: ", mult, "m2\n")
+		
+		
+		}
+	}

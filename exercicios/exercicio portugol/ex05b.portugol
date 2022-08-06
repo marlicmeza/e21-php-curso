@@ -1,0 +1,24 @@
+programa {
+	funcao inicio() {
+		inteiro opcao
+		
+		escreva("Digite um número inteiro entre 1 e 3: ")
+		leia(opcao)
+		
+		escolha (opcao)
+		{
+		    caso 1:
+		        escreva(" opção escolhida é: MACÃ!")
+		        pare
+		    caso 2:
+		        escreva("A opção escolhida é: PERA!")
+		        pare
+		    caso 3:
+		        escreva("A opção escolhida é: MELANCIA!")
+				pare
+			caso contrario: 
+                escreva ("Escolha uma opção válida !")
+		}
+		
+	}
+}

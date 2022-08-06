@@ -1,0 +1,39 @@
+programa
+{
+	inclua biblioteca Matematica --> mat
+	funcao inicio()
+	{
+		real a, b, mult
+		
+		escreva("Digite a altura do retângulo: ")
+		leia(a)
+
+		escreva("Digite o comprimento do retangulo: ")
+		leia(b)
+
+		mult = a * b 
+		
+		escreva("\nA area calculada do retangulo é igual a: ", mult, "cm2\n")
+
+		mult = a * b / 100
+		
+		escreva("\nA area calculada do retangulo em metros é igual a: ", mult, "m2\n")
+		
+        se (mult <= 1000)
+		{ 
+			escreva ("A area calculada é um terreno!\n") 
+		}
+		senao se (mult <= 5000)
+		{ 
+			escreva ("A area calculada é um sitio!\n") 
+		}
+		senao se (mult <= 10000)
+		{ 
+			escreva ("A area calculada é um hectare!\n") 
+		}
+		senao
+		{ 
+			escreva ("A area calculada é uma fazenda!\n") 
+		}
+	}
+}

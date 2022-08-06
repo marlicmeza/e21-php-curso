@@ -3,8 +3,15 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "Teste",
-            "database": "${workspaceFolder:e21php-curso}/e21-php-curso/bancodedados/mod4/modulo4.sql"
+            "name": "teste",
+            "database": "${workspaceFolder:e21-php-curso}/bancodedados/mod4/modulo4.sql"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "teste2",
+            "database": "${workspaceFolder:e21-php-curso}/bancodedados/mod5/database.sql"
         }
-    ]
+    ],
+    "sqltools.useNodeRuntime": true
 }

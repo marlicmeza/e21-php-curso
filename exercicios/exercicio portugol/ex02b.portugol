@@ -1,0 +1,19 @@
+programa {
+    inclua biblioteca Matematica --> mat
+	funcao inicio() {
+	real raiz
+	inteiro a, b, mult
+	
+	escreva("Digite um número n1: ")
+	leia(a)
+	escreva("Digite um número n2:")
+	leia(b)
+	
+	mult = a * b
+	escreva("\nO resultado da multilicação do números informados é: ", mult)
+	
+	raiz = mat.raiz (mult, 2.0)
+	escreva("\nA raiz quadrada do resultado da multiplicação é: ", raiz)
+	
+	}
+}

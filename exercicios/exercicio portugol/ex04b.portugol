@@ -1,0 +1,12 @@
+programa {
+  funcao atividade() {
+    cadeia mensagem
+    mensagem = ("Tenha um BOM DIA!")
+    escreva(mensagem)
+    }
+  funcao inicio() {
+    atividade()
+  }
+  
+}
+

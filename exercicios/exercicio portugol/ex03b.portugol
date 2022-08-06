@@ -1,0 +1,38 @@
+programa {
+	funcao inicio() {
+	inteiro numero
+	real mult
+	
+	escreva("Digite um numero: ")
+	leia(numero)
+
+	se (numero < 0)
+	{
+	    escreva("NUMERO NEGATIVO!")
+	}
+	senao se (numero <= 9)
+	{
+	    escreva("ZERO A NOVE!")
+	}
+	senao se (numero <= 19)
+	{
+	    escreva("DEZ A DEZENOVE!")
+	}
+	senao se (numero <= 29)
+	{
+	    escreva("VINTE A VINTE NOVE!")
+	}
+	senao se (numero <= 39)
+	{
+	    escreva(" TRINTA A TRINTA E NOVE!")
+	}
+	senao
+	{
+	    escreva("QUARENTA OU MAIOR!")
+	}
+
+    mult = numero * 0.5
+    escreva("\n50 por cento do valor digitado é: ", mult)
+		
+	}
+}

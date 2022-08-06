@@ -1,101 +1,35 @@
-# __e21php-curso__
-
-# <br>PROJETO ENTRA 21-22 
-### <br>MARLI CONSTANTINO MEZA
-### <br>CURSO PHP
-### <br>PROF°.  ADRIANO MACHADO
+ ![e-21](img%5CEntra21.png) 
+# __e21php-curso__ 
+# <br> PROJETO ENTRA 21-22
+ ### <br>MARLI CONSTANTINO MEZA
+ ### <br>CURSO PHP
+ ### <br>PROF°.  ADRIANO MACHADO
 # <br>Ambientação e  Metodologias Ágeis
-### <br>Frameworks:
-<ul>
-    <li> Scrum
-    <li>Kanban
-    <li>Trello
-</ul>
-## <br>KANBAN
-### <br>Principios que norteiam:
-<ul>
-    <li>Satisfazer clientes;
-    <li>Aceitar mudanças;
-    <li>Entregas com curtos períodos;
-    <li>Motivação;
-    <li>Simplicidade: a arte de maximar a quantidade de trabalho que não precisa ser feito.
-</ul>
-
-## SCRUM
-### <br>Pilares:
-<ul>
-    <li>Transparência;
-    <li>Inspeção;
-    <li>Adaptação;
-</ul>
-
-### Valores:
-<ul>
-    <li>Coragem;
-    <li>Foco;
-    <li>Comprometimento;
-    <li>Respeito;
-    <li>Abertura (escutar, compreender ...).
-</ul>
-
-## MANIFESTO ÁGIL
-<p>O Manifesto Ágil foi criado em 1970.</p>
-<p>Seus principios são:</p>
-<ul>
-    <li>Indivíduos são mais importante que processos e ferramentas;
-    <li>O mais importante é indivíduos e interações;
-software em funcionamento é mais importante que documentação abrangente;
-    <li>Colaboração com clientes mais importante que negociação de contratos;
-    <li>Responder a mudanças é mais importante do que seguir um plano.
-</ul>
-
-## <br>Aula 25.04.2022
-<p> Continuação do scrum com uso do Trello, compartilhamento do kanban trello, instalação do vscode, git e github desktop e primeiro contato com os colegas em reunião pelo meet em equipes.</p>
-Primeiro contatos com os comandos git:
-<ul>
-    <li> git add . 
-    <li> git commit -m "nome da versão"
-    <li> git push
-    <li> git pull
-</ul> </p>
-
-## Aula 26.04.2022
-<p>Daily scrum com colegas, criação de conta e repositório github, criação do arquivo Readme, clonagem e compartilhamento com o professor que clonou as pastas.
-Alteração no arquivo readme e feito submmit através de comandos prompt, usando vscode.</p>
-
-## Aula 26.04.2022
-<p>Daily scrum com colegas, comandos prompt voltado para atividade, compartilhamento e clonagem arquivo readme colega alterações e commit, criação e resolução de conflito criado em arquivo readme.
-Continuação readme individual com colaboração dos colegas - equipe no meet.</p>
-
-## Aula 28.04.2022
-<p>Daily Scrum, logo após conversa com todos e decisão de aula extra no sábado.
-Continuação da aula e repetição dos exercícios de clonagem, geração e resolução de problemas para aqueles que estavam com dificuldade com relação a aula de 27.04.</p>
-
-### Introdução a lógica de programação.
-__<p>Dinâmica__: Detalhar em 10 passos uma da opções:
-Comer Pizza, Sacar dinheiro e Tomar banho:</p>
-### Opção escolhida
-__COMER PIZZA__
-<ul>
-    <li>Pegar o telefone abrir o aplicativo;
-    <li>Fazer o pedido da pizza;
-    <li>Efetuar o pagamento;
-    <li>Receber a pizza;
-    <li>Preparar a mesa;
-    <li>Abrir a pizza;
-    <li>Cortar e por no prato;
-    <li>Cortar e levara a boca;
-    <li>Mastigar; 
-    <li>Engolir.
-</ul>
-
-## Aula 29.04.2022
-<p>Daily Scrum, sprint review, sprint planning, uso do Trello.</p>
-<p>Introdução a lógica de programação (continuação aula anterior), abordagem a um case simulando análise, levantamento e solução.</p>
-<p>Algoritmos, diagrama de chapin, fluxogramas etc...</p>
-
-# Aula 02.05.22
-<p>Daily scrum, solicitado ideia de aplicação a ser desenvolvido no curso, continuação a lógica de programação, algoritmos, ambiente de desenvolvimento, contextualização de IDE, tipos de linguagem: compiladas e interpretadas, servidores, XAMPP, variáveis e persistentes e indicação do Portugol para familiarização com linguagem de desenvolvimento.</p>
+ ### <br>Frameworks:
+     - Scrum
+     - Kanban
+     - Trello
+ ## <br>KANBAN
+ ### <br>Principios que norteiam:
+     - Satisfazer clientes;
+     - Aceitar mudanças;
+     - Entregas com curtos períodos;
+     - Motivação;
+     - Simplicidade: a arte de maximar a quantidade de    trabalho que não precisa ser feito.
+ ## SCRUM
+ ### <br>Pilares:
+     - Transparência;
+     - Inspeção;
+     - Adaptação;
+ ### Valores:
+     - Coragem;
+     - Foco;
+     - Comprometimento;
+     - Respeito;
+     - Abertura (escutar, compreender ...).
+ ## MANIFESTO ÁGIL
+ O Manifesto Ágil foi criado em 1970.
+     <br>Seus principios são:
 
      - Indivíduos são mais importante que processos e ferramentas;
      - O mais importante é indivíduos e interações;
@@ -503,18 +437,21 @@ __COMER PIZZA__
 # Aula 19.07.22
  Aula inglês.
 
-# 01.08.22
- Daily Scrum, continuação de Banco de Dados, início módulo5 em grupo.
+# 20.07 a 31.07 FÉRIAS.
+ 
+# Aula 01.08.22
+ Daily scrum, continação com Banco de Dados, iniciando módulo5 pelo site maxado.com.br.
 
 # Aula 02.08.22
- Aula Inglês, unidade 11.
+ Aula inglês, módulo 11.
 
 # Aula 03.08.22
- Orientação sobre o início do desenvolvimento do projeto final em sala e continuação módulo5, Banco de Dados em grupo.
+ Continuação Banco de Dados, módulo5 em grupo. 
+ Aviso João sobre ciclo de palestra dia 10.08, fazer inscrição pelo site do SYMPLA dia 09.08.
+ 
 
-# Aula 04.08.22
- Aula Empreendedorismo e Inovação, Professor Valdecir Knuth.
- Orientação sobre plano de negócio.
+
+ 
 
 
 
@@ -526,7 +463,7 @@ __COMER PIZZA__
  - 02 dias de reposiçao a ser definido;
  - Dossiês serão entregues as empresas âncoras em 01.08 e atualizados para as empresas em 05.09;
  - 10.08 Olimpiadas de programação ENTRA 21; CANCELADA
- - 10.08 Ciclo de palestras a noite; site Sympla
+ - 10.08 Ciclo de palestras a noite;
  - CURSO;
  - Fase 1: Programação;
  - Fase 2: Banco de dados;
@@ -548,7 +485,7 @@ __COMER PIZZA__
  [Branches](https://www.youtube.com/watch?v=xAOBQtSVI_k) \
  [Manual operadores PHP](php.net/manual/pt_BR/language.operators.logical.php) \
  [Site forms](https://www.w3schools.com/html/html_forms.asp) \
- [Markdown sintaxe estendida](https://markdown.net.br/sintaxe-estendida/)
+ [Markdown sintaxe estendida](https://markdown.net.br/sintaxe-estendida/)\
 
  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
 
