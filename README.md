@@ -439,6 +439,22 @@
 
 # 20.07 a 31.07 FÉRIAS.
 
+# 01.08.22
+ Daily Scrum, continuação de Banco de Dados, início módulo5 em grupo.
+
+# Aula 02.08.22
+ Aula Inglês, unidade 11.
+
+# Aula 03.08.22
+ Orientação sobre o início do desenvolvimento do projeto final em sala e continuação módulo5, Banco de Dados em grupo.
+
+# Aula 04.08.22
+ Aula Empreendedorismo e Inovação, Professor Valdecir Knuth.
+ Orientação sobre plano de negócio.
+
+# Aula 05.08.22
+ Continuação módulo5 Banco de Dados e entrega do ex200-1.
+
 
  
 
