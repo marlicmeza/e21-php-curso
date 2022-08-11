@@ -437,6 +437,7 @@
 # Aula 19.07.22
  Aula inglês.
 
+<<<<<<< HEAD
 # 01.08.22
  Daily Scrum, continuação de Banco de Dados, início módulo5 em grupo.
 
@@ -449,6 +450,13 @@
 # Aula 04.08.22
  Aula Empreendedorismo e Inovação, Professor Valdecir Knuth.
  Orientação sobre plano de negócio.
+=======
+# 20.07 a 31.07 FÉRIAS.
+
+
+ 
+
+>>>>>>> 6e50fe5d9a2dcdc3242bd086c26f1d8adea0d9e3
 
 
 
