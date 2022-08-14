@@ -437,7 +437,8 @@
 # Aula 19.07.22
  Aula inglês.
 
-<<<<<<< HEAD
+ # 20.07 a 31.07 FÉRIAS.
+
 # 01.08.22
  Daily Scrum, continuação de Banco de Dados, início módulo5 em grupo.
 
@@ -450,8 +451,29 @@
 # Aula 04.08.22
  Aula Empreendedorismo e Inovação, Professor Valdecir Knuth.
  Orientação sobre plano de negócio.
-=======
-# 20.07 a 31.07 FÉRIAS.
+
+# Aula 05.08.22
+Continuação módulo 5 Banco de Dados e início exercício 201.
+
+# Aula 08.08.22
+Continuação, finalização e entrega do exercício 201.
+Início módulo06 Bando de Dados.
+
+# Aula 09.08.22
+Aula inglês, Unidade 12.
+
+# Aula 10.08.22
+Ciclo de Palestras Entra21.
+
+# Aula 11.08.22
+Aula Desenvolvimento Humano.
+
+# Aula 12.09.22
+Aula Contabilidade e finanças pessoais, explanação sobre alguns investimentos, disponibilização de material de apoio. Orientação sobre finanças pessoais.
+
+
+
+
 
 
  

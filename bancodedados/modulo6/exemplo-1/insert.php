@@ -19,10 +19,10 @@ function InserirPessoa($PESSOA_NOME,$PESSOA_IDADE,$PESSOA_CIDADE_ID) {
     return $db->lastInsertId() ; 
 }
 
-$novoID = InserirPessoa('Tania',40,2);
+$novoID = InserirPessoa('Tia Zefinha',60,3);
 print "<b> <br> $novoID </b> </br>";
 
-$novoID = InserirPessoa('Paula',20,1);
+$novoID = InserirPessoa('Pedro Silva',20,2);
 print "<b> <br> $novoID </b> </br>";
 
 unset($db);
