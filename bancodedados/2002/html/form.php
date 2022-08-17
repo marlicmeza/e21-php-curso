@@ -9,7 +9,7 @@
     <title>BASE</title>
         </head>
             <body>
-                <h1>TELA DE CADASTRO E ALTERAÇÃO</H1>
+                <h1>TELA DE CADASTRAR E LISTAR</H1>
                 <br>
                 <form method="post">
                      <fieldset>
@@ -28,15 +28,4 @@
                         <button input type="submit" name="listar"> Listar </button>
                     </fieldset>
                 </form>
-                    <table>
-                    <tr id="titulo">
-                    </tr>                     
-                    <tr id="titulo">
-                    <td>Nome</td>
-                    <td>Idade</td>
-                    <td>Cep</td>
-                    <td>Saldo</td>
-                    <td>Excluir</td>
-                    <td>Alterar</td>
-                    </tr>
-    
+                   
