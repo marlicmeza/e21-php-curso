@@ -471,6 +471,22 @@ Aula Desenvolvimento Humano.
 # Aula 12.09.22
 Aula Contabilidade e finanças pessoais, explanação sobre alguns investimentos, disponibilização de material de apoio. Orientação sobre finanças pessoais.
 
+# Aula 15.08.22
+Continuação Módulo 6 Banco de Dados e ex200-1.
+
+# Aula 16.08.22
+Aula ingles, módulo13.
+
+# Aula 17.08.22
+Continuação módulo06 bd, ex 200-1 e ex login forçado.
+
+# Aula 18.08.22
+Aula Desenvolvimento Humano, conhecendo as empresas âncoras do Projeto Entra21-22.
+
+# Aula 19.08.22
+Finalizando o Banco de Dados
+Visita do João e da Maura falando sobre empregabilidade do Projeto Entra21.
+
 
 
 
