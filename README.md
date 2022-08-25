@@ -475,18 +475,32 @@ Aula Contabilidade e finanças pessoais, explanação sobre alguns investimentos
 Continuação Módulo 6 Banco de Dados e ex200-1.
 
 # Aula 16.08.22
-Aula ingles, módulo13.
+Aula ingles, unidade 13 e teste de aprendizagem das unidades 11 e 12.
 
 # Aula 17.08.22
 Continuação módulo06 bd, ex 200-1 e ex login forçado.
 
 # Aula 18.08.22
-Aula Desenvolvimento Humano, conhecendo as empresas âncoras do Projeto Entra21-22.
+Aula Desenvolvimento Humano, conhecendo as empresas âncoras do Projeto Entra21-22, através de apresentação feita pelos alunos com base em pesquisas.
 
 # Aula 19.08.22
 Finalizando o Banco de Dados
 Visita do João e da Maura falando sobre empregabilidade do Projeto Entra21.
 
+# Aula 22.08.22
+Início Projeto final com definições do database e usuários, teste de conexão e assuntos relacionados.
+mysql host = 3.89.36.150
+usuario = phpe2122g2
+senha = phpe2122g2@22@ago
+
+# Aula 23.08.22
+Aula inglês, unidade 14.
+
+# Aula 24.08.22
+Aula Desenvolvimento Humano - Soft Skills, teste de auto conhecimento e a importância da comunicação.
+
+# Aula 25.08.22
+Definição minicurrículo, descrição e troca de ideia sobre o Projeto final.
 
 
 
@@ -502,7 +516,7 @@ Visita do João e da Maura falando sobre empregabilidade do Projeto Entra21.
 
  *_LEMBRETES:_*
  - Férias a confirmar 20.07 a 29.07;
- - 02 dias de reposiçao a ser definido;
+ - 02 dias de reposição a ser definido;
  - Dossiês serão entregues as empresas âncoras em 01.08 e atualizados para as empresas em 05.09;
  - 10.08 Olimpiadas de programação ENTRA 21; CANCELADA
  - 10.08 Ciclo de palestras a noite;

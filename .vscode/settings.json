@@ -5,7 +5,19 @@
             "driver": "SQLite",
             "name": "teste",
             "database": "${workspaceFolder:e21-php-curso}/bancodedados/mod4/modulo4.sql"
-
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "PROEJTOE21",
+            "database": "phpe2122g2",
+            "username": "phpe2122g2",
+            "password": "phpe2122g2@22@ago"
         }
     ],
     "sqltools.useNodeRuntime": true
