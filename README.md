@@ -502,6 +502,29 @@ Aula Desenvolvimento Humano - Soft Skills, teste de auto conhecimento e a import
 # Aula 25.08.22
 Definição minicurrículo, descrição e troca de ideia sobre o Projeto final.
 
+# Aula 26.08.22
+
+
+# Aula 29.08.22
+Sprint review, instalação e configuração do composer/laravel, primeiros comandos de criação de projeto e teste de funcionamento, deixando ok com todos os alunos para continuar.
+
+# Aula 30.08.22
+Aula inglês, finalização lesson 14.
+
+# Aula 31.08.22
+Continuação Laravel, conhecendo melhor a interface e comandos com testes.
+Explicação sobre MCV - Models - Controllers - Views. 
+Fluxograma aplicado no Projeto Final.
+
+# Aula 01.09.22
+Aula Desenvolvimento Humano.
+Formatação de currículos, dicas e aperfeiçoamento do Linkedin, dicas sobres entrevistas e orientações gerais a respeito de mercado de trabalho.
+
+# Aula 02.09.22
+Clonagem do repositório do Prof. atualizado, e continuação do Laravel.
+Comando de rotas, views e integração com php.
+Dicas de bootstrap.
+
 
 
 
