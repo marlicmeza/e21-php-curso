@@ -14,5 +14,26 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    return view('welcome2');
+});
+
+Route::get('/denize', function () {
     return view('denize');
 });
+
+Route::get('/alunos', function () {
+    return view('alunos');
+});
+
+Route::get('/navegacao', function () {
+    return view('navegacao');
+});
+
+Route::get('/login', function () {
+    return view('login');
+});
+
+Route::get('/navbar', function () {
+    return view('navbar');
+});
+

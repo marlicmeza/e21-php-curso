@@ -525,6 +525,11 @@ Clonagem do repositório do Prof. atualizado, e continuação do Laravel.
 Comando de rotas, views e integração com php.
 Dicas de bootstrap.
 
+# Aula 05.09.22
+Continuação com bootstrap, rotas, views aplicando em página web.
+
+
+
 
 
 
