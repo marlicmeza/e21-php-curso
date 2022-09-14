@@ -1,4 +1,5 @@
  ![e-21](img%5CEntra21.png) 
+ ![e21](img/Entra21.png)
 # __e21php-curso__ 
 # <br> PROJETO ENTRA 21-22
  ### <br>MARLI CONSTANTINO MEZA
@@ -528,6 +529,26 @@ Dicas de bootstrap.
 # Aula 05.09.22
 Continuação com bootstrap, rotas, views aplicando em página web.
 
+# Aula 06.09.22
+Aula inglês, teste de aprendizado lesson 13 e 14 e continuação lesson 15.
+
+# Aula 08.09.22
+Aula Desenvolvimento Humano, dicas de entrevista, softs skills, pontos fortes e pontos a melhorar.
+
+# Aula 09.09.22
+Aula php, continuação laravel e andamento do projeto final.
+
+# Aula 12.09.22 
+Aula php, trabalhando no projeto final, construindo página de produtos.
+
+# Aula 13.09.22
+Aula inglês, lesson 15.
+
+# Aula 14.09.22
+Trabalhando no projeto final, inicio construção do login, perfil e continuação de produtos.
+
+
+
 
 
 
@@ -536,13 +557,16 @@ Continuação com bootstrap, rotas, views aplicando em página web.
 
  
 
->>>>>>> 6e50fe5d9a2dcdc3242bd086c26f1d8adea0d9e3
+
 
 
 
 
 
  *_LEMBRETES:_*
+ - Formatura 19.10.22 - Manhã
+ - 19 e 20.10.22 Mostra de talentos
+ - 21.10 Aula final PHP.
  - Férias a confirmar 20.07 a 29.07;
  - 02 dias de reposição a ser definido;
  - Dossiês serão entregues as empresas âncoras em 01.08 e atualizados para as empresas em 05.09;
@@ -560,6 +584,7 @@ Continuação com bootstrap, rotas, views aplicando em página web.
  ♥️ 📖 
  
  ![git](img%5CGit.png)
+ ![git1](img/Git.png)
 
 # REFERÊNCIAS:
  **Sites:**\
