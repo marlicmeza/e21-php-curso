@@ -547,6 +547,12 @@ Aula inglês, lesson 15.
 # Aula 14.09.22
 Trabalhando no projeto final, inicio construção do login, perfil e continuação de produtos.
 
+# Aula 15.09.22
+Continuaçao Projeto Final em grupo.
+
+# Aula 16.09.22
+Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o primeiro deploy.
+
 
 
 
@@ -557,7 +563,10 @@ Trabalhando no projeto final, inicio construção do login, perfil e continuaç�
 
  
 
-
+ ## DADOS DE ACESSO HEROKU
+  http://euquefiz.herokuapp.com/
+ entra21euquefiz*
+ euquefiz.e21@gmail.com
 
 
 
