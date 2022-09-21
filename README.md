@@ -553,6 +553,17 @@ Continuaçao Projeto Final em grupo.
 # Aula 16.09.22
 Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o primeiro deploy.
 
+# Aula 19.09.22
+ Continuação Projeto Final.
+
+
+ # Aula 20.09.22
+ Aula final de inglês. Lesson 16 e final test.
+
+ # Aula 21.09.22
+ Trabalhando Projeto Final.
+
+
 
 
 
@@ -567,6 +578,16 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
   http://euquefiz.herokuapp.com/
  entra21euquefiz*
  euquefiz.e21@gmail.com
+
+ # email projeto
+ euquefiz.e21@gmail.com
+ entra21euquefiz
+
+ # Armazenamento de fotos
+ https://postimages.org/
+ euquefiz.e21@gmail.com
+ entra21euquefiz
+
 
 
 
