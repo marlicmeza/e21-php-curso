@@ -563,6 +563,21 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  # Aula 21.09.22
  Trabalhando Projeto Final.
 
+ # Aula 22.09.22
+ Trabalhando no Projeto Final.
+
+  # Aula 23.09.22
+ Trabalhando no Projeto Final.
+
+  # Aula 26.09.22
+ Trabalhando no Projeto Final.
+
+  # Aula 27.09.22
+ Trabalhando no Projeto Final.
+
+  # Aula 28.09.22
+ Trabalhando no Projeto Final.
+
 
 
 
