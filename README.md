@@ -564,7 +564,7 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  Trabalhando Projeto Final.
 
  # Aula 22.09.22
- Trabalhando no Projeto Final.
+ Trabalhando no Projeto Final. Aprendemos a criar uma branch, comitar, fazer merge e deletar. 
 
   # Aula 23.09.22
  Trabalhando no Projeto Final.
@@ -578,6 +578,14 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
   # Aula 28.09.22
  Trabalhando no Projeto Final.
 
+  # Aula 29.09.22
+ Trabalhando no Projeto Final.
+
+  # Aula 30.09.22
+ Trabalhando no Projeto Final.
+
+  # Aula 03.10.22
+ Trabalhando no Projeto Final.
 
 
 
