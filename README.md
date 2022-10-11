@@ -633,7 +633,7 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  entra21euquefiz*
  euquefiz.e21@gmail.com
 
- # email projeto
+ # Email do Projeto
  euquefiz.e21@gmail.com
  entra21euquefiz
 
@@ -680,6 +680,9 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  [Manual operadores PHP](php.net/manual/pt_BR/language.operators.logical.php) \
  [Site forms](https://www.w3schools.com/html/html_forms.asp) \
  [Markdown sintaxe estendida](https://markdown.net.br/sintaxe-estendida/)\
+ [Laravel](https://laravel.com/)\
+ [Laravel](https://www.w3schools.com/)\
+ 
 
  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
 
