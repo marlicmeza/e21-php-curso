@@ -565,6 +565,12 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
 
  # Aula 22.09.22
  Trabalhando no Projeto Final. Aprendemos a criar uma branch, comitar, fazer merge e deletar. 
+ . git checkout -b nome-da-branch   cria uma branch
+ . git checkout -b feature_nome  cria uma feature dentro da branch
+ . git branch -d feature_nome  deleta a feature
+
+ Após trabalhar na feature fazer commit, voltar para branch e fazer merge para main.
+ Caso não queira mais trabalhar na feature só deletar.
 
   # Aula 23.09.22
  Trabalhando no Projeto Final.
@@ -586,6 +592,32 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
 
   # Aula 03.10.22
  Trabalhando no Projeto Final.
+ 
+  # Aula 04.10.22
+ Trabalhando no Projeto Final.
+ Conversa com Jonathan Kracik sobre ajustes da apresentação e formatura, preencher formulário da Equipe, (um por equipe), para definição da ordem e horário de apresentação.
+ Preencher formulário individial para quem for presencialmente.
+ Apresentação somente em um dos formatos disponíveis, presencial ou gravado.
+
+  # Aula 05.10.22
+ Trabalhando no Projeto Final.
+
+  # Aula 06.10.22
+ Trabalhando no Projeto Final.
+
+  # Aula 07.10.22
+ Trabalhando no Projeto Final.
+
+  # Aula 10.10.22
+ Trabalhando no Projeto Final.
+
+  # Aula 11.10.22
+ Trabalhando no Projeto Final.
+ Definição do texto a ser apresentado, ainda faremos ajustes.
+
+ 
+
+
 
 
 
@@ -617,9 +649,11 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
 
 
  *_LEMBRETES:_*
- - Formatura 19.10.22 - Manhã
- - 19 e 20.10.22 Mostra de talentos
- - 21.10 Aula final PHP.
+ - Formatura alterada data para 25.10 as 19:00 hs;
+ - Mostra de talentos alterado para 25 e 26.10 manhã e tarde;
+ - Formatura 19.10.22 - Manhã;
+ - 19 e 20.10.22 Mostra de talentos;
+ - 21.10 Aula final PHP;
  - Férias a confirmar 20.07 a 29.07;
  - 02 dias de reposição a ser definido;
  - Dossiês serão entregues as empresas âncoras em 01.08 e atualizados para as empresas em 05.09;
