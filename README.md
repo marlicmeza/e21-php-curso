@@ -669,8 +669,7 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  
  ♥️ 📖 
  
- ![git](img%5CGit.png)
- ![git1](img/Git.png)
+  ![git1](img/Git.png)
 
 # REFERÊNCIAS:
  **Sites:**\
