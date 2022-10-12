@@ -569,7 +569,7 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  . git branch -d feature_nome  deleta a feature
 
  Após trabalhar na feature fazer commit, voltar para branch e fazer merge para main.
- Caso não queira mais trabalhar na feature só deletar.
+ Caso não queira mais trabalhar na feature fazer o delete.
 
   # Aula 23.09.22
  Trabalhando no Projeto Final.
@@ -597,6 +597,7 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  Conversa com Jonathan Kracik sobre ajustes da apresentação e formatura, preencher formulário da Equipe, (um por equipe), para definição da ordem e horário de apresentação.
  Preencher formulário individial para quem for presencialmente.
  Apresentação somente em um dos formatos disponíveis, presencial ou gravado.
+ Tempo de apresentação 03 minutos para projeto e 0,30 segundos para a apresentação individual.
 
   # Aula 05.10.22
  Trabalhando no Projeto Final.
@@ -680,9 +681,10 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  [Manual operadores PHP](php.net/manual/pt_BR/language.operators.logical.php) \
  [Site forms](https://www.w3schools.com/html/html_forms.asp) \
  [Markdown sintaxe estendida](https://markdown.net.br/sintaxe-estendida/)\
+ [Aulas online](http://www.maxado.com.br/ead//)\
+ [W3schools](https://www.w3schools.com/)\
  [Laravel](https://laravel.com/)\
- [Laravel](https://www.w3schools.com/)\
- 
+
 
  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
 
