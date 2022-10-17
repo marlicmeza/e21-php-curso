@@ -464,6 +464,12 @@ Aula inglês, Unidade 12.
 
 # Aula 10.08.22
 Ciclo de Palestras Entra21.
+Palestras assistidas:
+1 - O PAPEL DA CIÊNCIA DE DADOS NO MUNDO DOS NEGÓCIOS - Palestrante: Mateus Rigo Noriter;
+2 - INOVAÇÃO E METODOLOGIAS ÁGEIS  - Palestrante: Ramon Cardeal;
+3 - PALESTRA HAVAN  - Palestrantes: Leo Alves e Rafael H. Pinotti;
+4 - COMO CRIAR UM STARTUP MATADORA - Palestrante: Thiago Borges;
+5 - WEB 3.0 - Palestrante: Thiago da Silva.
 
 # Aula 11.08.22
 Aula Desenvolvimento Humano.
