@@ -621,6 +621,25 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  Trabalhando no Projeto Final.
  Definição do texto a ser apresentado, ainda faremos ajustes.
 
+   # Aula 12.10.22
+ Trabalhando no Projeto Final e ajustes do texto de gravação.
+
+  # Aula 13.10.22
+ Trabalhando no Projeto Final.
+
+  # Aula 14.10.22
+ Trabalhando no Projeto Final.
+ Definição do texto por pessoa para gravações e definição de entrega dos vídeos para no máximo 17.10.22.
+ Entrega para coordenação será na quarta 19.10.22.
+
+
+   # Aula 17.10.22
+ Trabalhando nos ajustes finais do projeto e entrega das gravações de apresentação projeto.
+
+  
+
+
+
  
 
 
@@ -676,20 +695,22 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  
  ♥️ 📖 
  
-  ![git1](img/Git.png)
+ 
 
 # REFERÊNCIAS:
- **Sites:**\
+ 
  [Site Portugol](https://portugol-webstudio.cubos.io/ide)\
  [Playlist das aulas](https://www.youtube.com/playlist?list=PL2WEynOui8TQxNqHE7IXrlirkVM7SDp9w) \
  [Formatação Markdown](https://markdown.net.br/sintaxe-basica/#headings-alternative-syntax) \
  [Branches](https://www.youtube.com/watch?v=xAOBQtSVI_k) \
+ [Trello](https://trello.com/)\
  [Manual operadores PHP](php.net/manual/pt_BR/language.operators.logical.php) \
  [Site forms](https://www.w3schools.com/html/html_forms.asp) \
  [Markdown sintaxe estendida](https://markdown.net.br/sintaxe-estendida/)\
  [Aulas online](http://www.maxado.com.br/ead//)\
- [W3schools](https://www.w3schools.com/)\
+ [W3schools](https://www.w3schools.com/)\ 
  [Laravel](https://laravel.com/)\
+ [Linkedin](https://www.linkedin.com/in/marlimeza/ target="_blank")\
 
 
  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
