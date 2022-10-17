@@ -714,4 +714,4 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
 
  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
 
- 
+ <a href="https://www.google.com" target="_blank">Ir para o Google em nova página</a>
