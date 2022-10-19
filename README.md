@@ -710,8 +710,8 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  [Aulas online](http://www.maxado.com.br/ead//)\
  [W3schools](https://www.w3schools.com/)\ 
  [Laravel](https://laravel.com/)\
- [Linkedin] <a href="https://www.linkedin.com/in/marlimeza/" target="_blank" </a>
+ [Linkedin](https://www.linkedin.com/in/marlimeza/ _target="blank")\
 
  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
 
- <a href="https://www.google.com" target="_blank">Ir para o Google em nova página</a>
+]
