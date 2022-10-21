@@ -1,7 +1,7 @@
  ![e21](img/Entra21.png)
 # __e21php-curso__ 
 # <br> PROJETO ENTRA 21-22
- ### <br>MARLI CONSTANTINO MEZA
+ ### <br>MARLI CONSTANTINO MEZA  https://www.linkedin.com/in/marlimeza
  ### <br>CURSO PHP
  ### <br>PROF°.  ADRIANO MACHADO
 # <br>Ambientação e  Metodologias Ágeis
@@ -710,7 +710,7 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  [Aulas online](http://www.maxado.com.br/ead//)\
  [W3schools](https://www.w3schools.com/)\ 
  [Laravel](https://laravel.com/)\
- [Linkedin](https://www.linkedin.com/in/marlimeza/ _target="blank")\
+ [Linkedin](https://www.linkedin.com/in/marlimeza/)\
 
  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
 
