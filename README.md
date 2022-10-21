@@ -699,19 +699,19 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
 
 # REFERÊNCIAS:
  
- [Site Portugol](https://portugol-webstudio.cubos.io/ide)\
+ [Site Portugol](https://portugol-webstudio.cubos.io/ide) \
  [Playlist das aulas](https://www.youtube.com/playlist?list=PL2WEynOui8TQxNqHE7IXrlirkVM7SDp9w) \
  [Formatação Markdown](https://markdown.net.br/sintaxe-basica/#headings-alternative-syntax) \
  [Branches](https://www.youtube.com/watch?v=xAOBQtSVI_k) \
- [Trello](https://trello.com/)\
+ [Trello](https://trello.com/) \
  [Manual operadores PHP](php.net/manual/pt_BR/language.operators.logical.php) \
  [Site forms](https://www.w3schools.com/html/html_forms.asp) \
- [Markdown sintaxe estendida](https://markdown.net.br/sintaxe-estendida/)\
- [W3schools](https://www.w3schools.com/)\ 
- [Laravel](https://laravel.com/)\
- [Aulas online](http://www.maxado.com.br/ead//)\
- [Linkedin](https://www.linkedin.com/in/marlimeza/)\
+ [Markdown sintaxe estendida](https://markdown.net.br/sintaxe-estendida/) \
+ [W3schools](https://www.w3schools.com/) \ 
+ [Laravel](https://laravel.com/) \ 
+ [Aulas online](http://www.maxado.com.br/ead//) \
+ [Linkedin](https://www.linkedin.com/in/marlimeza/)
 
  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
 
-]
+
