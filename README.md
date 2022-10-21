@@ -1,11 +1,11 @@
  ![e21](img/Entra21.png)
 # __e21php-curso__ 
-#  PROJETO ENTRA21-2022
- ### MARLI CONSTANTINO MEZA  
- ### CURSO PHP
- ### PROF°.  ADRIANO MACHADO
-# Ambientação e  Metodologias Ágeis
- ### Frameworks:
+# <br> PROJETO ENTRA21-2022
+ ### <br>MARLI CONSTANTINO MEZA  
+ ### <br>CURSO PHP
+ ### <br>PROF°.  ADRIANO MACHADO
+# <br>Ambientação e  Metodologias Ágeis
+ ### <br>Frameworks:
      - Scrum
      - Kanban
      - Trello
