@@ -1,6 +1,6 @@
  ![e21](img/Entra21.png)
 # __e21php-curso__ 
-# <br> PROJETO ENTRA 21-22
+# <br> PROJETO ENTRA21-2022
  ### <br>MARLI CONSTANTINO MEZA  
  ### <br>CURSO PHP
  ### <br>PROF°.  ADRIANO MACHADO
@@ -9,15 +9,15 @@
      - Scrum
      - Kanban
      - Trello
- ## <br>KANBAN
- ### <br>Principios que norteiam:
+ ## KANBAN
+ ### Principios que norteiam:
      - Satisfazer clientes;
      - Aceitar mudanças;
      - Entregas com curtos períodos;
      - Motivação;
      - Simplicidade: a arte de maximar a quantidade de    trabalho que não precisa ser feito.
  ## SCRUM
- ### <br>Pilares:
+ ### Pilares:
      - Transparência;
      - Inspeção;
      - Adaptação;
@@ -37,7 +37,7 @@
      - Colaboração com clientes mais importante que negociação de contratos;
      - Responder a mudanças é mais importante do que seguir um plano.
 
- ## <br>Aula 25.04.2022
+ ## Aula 25.04.2022
  Continuação do scrum com uso do Trello, compartilhamento do kanban trello, instalação do vscode, git e github desktop e primeiro contato com os colegas em reunião pelo meet em equipes.
  <br> __*Primeiro contatos com os comandos git:*__
  ```
