@@ -633,42 +633,38 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  Entrega para coordenação será na quarta 19.10.22.
 
 
-   # Aula 17.10.22
+  # Aula 17.10.22
  Trabalhando nos ajustes finais do projeto e entrega das gravações de apresentação projeto.
 
-  
+  # Aula 18.10.22
+ Ajustes no Projeto Final.
+ Edição dos vídeos apresentação.
 
+  # Aula 19.10.22
+ Correção de alguns pontos no Projeto Final.
+ Entrega dos vídeos.
 
+  # Aula 20.10.22
+ Conversa em sala com professor.
+ Conversa em grupo.
+
+  # Aula 21.10.22
+ Último dia de aula, conversa em sala e reunião as 19:00 hs com todas as turmas do Professor Adriano.
 
  
 
 
 
-
-
-
-
-
-
-
-
- 
+ # INFORMAÇÕES
 
  ## DADOS DE ACESSO HEROKU
   http://euquefiz.herokuapp.com/
- entra21euquefiz*
- euquefiz.e21@gmail.com
 
  # Email do Projeto
  euquefiz.e21@gmail.com
- entra21euquefiz
 
  # Armazenamento de fotos
  https://postimages.org/
- euquefiz.e21@gmail.com
- entra21euquefiz
-
-
 
 
 
@@ -710,7 +706,9 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  [W3schools](https://www.w3schools.com/) \ 
  [Laravel](https://laravel.com/) \ 
  [Aulas online](http://www.maxado.com.br/ead//) \
- [Linkedin](https://www.linkedin.com/in/marlimeza/)
+ [Linkedin](https://www.linkedin.com/in/marlimeza/)\
+ [GitHub](https://github.com/marlicmeza)
+
 
  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
 
