@@ -652,7 +652,7 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  Último dia de aula, conversa em sala e reunião as 19:00 hs com todas as turmas do Professor Adriano.
 
  # PROJETO FINAL
- # [Ecommerce_Euquefiz](http://euquefiz.herokuapp.com/) \
+ # [Ecommerce_Euquefiz](http://euquefiz.herokuapp.com/) 
 
  
 
@@ -676,10 +676,9 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  - Fase 4: Projeto (TCC);
  - Comitar um algoritmo no repositório público;
  - 17 a 21.10 Finalização do Curso.
- - HEROKU - http://euquefiz.herokuapp.com/
+ - [HEROKU](http://euquefiz.herokuapp.com/)
+ - [Armazenamento de fotos](https://postimages.org/)
  - Email projeto - euquefiz.e21@gmail.com
- - Armazenamento de fotos - https://postimages.org/
- -  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
  
  ♥️ 📖 
  
