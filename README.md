@@ -1,7 +1,7 @@
  ![e21](img/Entra21.png)
 # __e21php-curso__ 
 # <br> PROJETO ENTRA21-2022
- ### <br>MARLI CONSTANTINO MEZA  
+ ### <br>MARLI CONSTANTINO MEZA  [Linkedin](https://www.linkedin.com/in/marlimeza/)
  ### <br>CURSO PHP
  ### <br>PROF°.  ADRIANO MACHADO
 # <br>Ambientação e  Metodologias Ágeis
@@ -650,6 +650,9 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
 
   # Aula 21.10.22
  Último dia de aula, conversa em sala e reunião as 19:00 hs com todas as turmas do Professor Adriano.
+
+ # PROJETO FINAL
+ [Ecommerce_Euquefiz](http://euquefiz.herokuapp.com/)
 
  
 
