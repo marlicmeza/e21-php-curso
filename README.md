@@ -1,7 +1,7 @@
  ![e21](img/Entra21.png)
-# __e21php-curso__ 
+# __E21php-curso__ 
 # <br> PROJETO ENTRA21-2022
- ### <br>MARLI CONSTANTINO MEZA  [Linkedin](https://www.linkedin.com/in/marlimeza/)
+ ### <br>MARLI CONSTANTINO MEZA  
  ### <br>CURSO PHP
  ### <br>PROF°.  ADRIANO MACHADO
 # <br>Ambientação e  Metodologias Ágeis
@@ -658,21 +658,7 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
 
 
 
- # INFORMAÇÕES
-
- ## DADOS DE ACESSO HEROKU
-  http://euquefiz.herokuapp.com/
-
- # Email do Projeto
- euquefiz.e21@gmail.com
-
- # Armazenamento de fotos
- https://postimages.org/
-
-
-
-
- *_LEMBRETES:_*
+  *_LEMBRETES:_*
  - Formatura alterada data para 25.10 as 19:00 hs;
  - Mostra de talentos alterado para 25 e 26.10 manhã e tarde;
  - Formatura 19.10.22 - Manhã;
@@ -690,7 +676,10 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  - Fase 4: Projeto (TCC);
  - Comitar um algoritmo no repositório público;
  - 17 a 21.10 Finalização do Curso.
- 
+ - HEROKU - http://euquefiz.herokuapp.com/
+ - Email projeto - euquefiz.e21@gmail.com
+ - Armazenamento de fotos - https://postimages.org/
+ -  https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
  
  ♥️ 📖 
  
@@ -713,6 +702,6 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  [GitHub](https://github.com/marlicmeza)
 
 
- https://drive.google.com/file/d/10zXNZ6nUKmLTQGKO0JpF_3SlZvx7Xp00/view
+
 
 
