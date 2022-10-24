@@ -652,7 +652,7 @@ Continuaçao Projeto Final, e publicaçao no projeto no Heroku, sendo feito o pr
  Último dia de aula, conversa em sala e reunião as 19:00 hs com todas as turmas do Professor Adriano.
 
  # PROJETO FINAL
- [Ecommerce_Euquefiz](http://euquefiz.herokuapp.com/)
+ # [Ecommerce_Euquefiz](http://euquefiz.herokuapp.com/) \
 
  
 
